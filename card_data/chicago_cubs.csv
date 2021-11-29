@@ -11,11 +11,11 @@ Marlon Byrd,Chicago Cubs,2011,2010,OF,topps,137,0,0,0,0,1,0,
 Alfonso Soriano,Chicago Cubs,2011,2010,OF,topps,356,0,0,0,0,1,0,
 David DeJesus,Chicago Cubs,2013,2012,OF,topps,209,0,0,0,0,1,0,
 Darwin Barney,Chicago Cubs,2013,2012,2B,topps,299,0,0,0,0,1,0,
-Anthony Rizzo,Chicago Cubs,2013,2012,1B,topps,44,0,0,0,0,1,1,Topps All Star Rookie
+Anthony Rizzo,Chicago Cubs,2013,2012,1B,topps,44,0,0,0,0,1,1,Topps All-Star Rookie
 Starlin Castro,Chicago Cubs,2012,2011,none,topps,167,1,0,0,0,1,1,"Series One Checklist, Youngest NL Hits Leader"
 Starlin Castro,Chicago Cubs,2011,2010,SS,topps,247,0,0,0,0,2,0,
 Starlin Castro,Chicago Cubs,2012,2011,SS,topps,202,0,0,1,0,1,0,
-Starlin Castro,Chicago Cubs,2011,2010,SS,topps,655,0,0,0,0,1,1,Topps All Star Rookie
+Starlin Castro,Chicago Cubs,2011,2010,SS,topps,655,0,0,0,0,1,1,Topps All-Star Rookie
 Darwin Barney,Chicago Cubs,2011,2010,SS,topps,347,0,1,0,0,1,0,
 Bryan Lahair,Chicago Cubs,2012,2011,1B,topps,394,1,0,0,0,1,0,
 Blake DeWitt,Chicago Cubs,2011,2012,2B,topps,628,0,0,0,0,1,0,
@@ -55,3 +55,84 @@ Ryan Sweeney,Chicago Cubs,2014,2013,OF,topps,93,0,0,0,0,1,0,
 Jeff Samardzija,Chicago Cubs,2014,2013,P,topps,239,0,0,0,0,1,0,
 Darwin Barney,Chicago Cubs,2014,2013,2B,topps,183,0,0,0,0,1,0,
 Carlos Villanueva,Chicago Cubs,2014,2013,P,topps,272,0,0,0,0,1,0,
+Dennis Eckersley,Chicago Cubs,1986,1986,P,donruss,365,0,0,0,0,2,0,
+Leon Durham,Chicago Cubs,1984,1984,1B,donruss,238,0,0,0,0,2,0,Leaf variant
+Ryne Sandberg,Chicago Cubs,1992,1991,2B,leaf,317,0,0,0,0,2,0,
+Ryne Sandberg,Chicago Cubs,1991,1990,2B,leaf,207,0,0,0,0,3,0,
+Gary Woods,Chicago Cubs,1984,1984,OF,donruss,49,0,0,0,0,3,0,Leaf variant
+Gary Matthews,Chicago Cubs,1984,1984,OF,donruss,220,0,0,0,0,3,0,Leaf variant
+Doug Bird,Chicago Cubs,1982,1981,P,donruss,504,0,0,0,0,1,0,
+Addison Russell,Chicago Cubs,2018,2017,SS,topps,62,0,0,0,0,1,0,Cardboard card
+Rich Bordi,Chicago Cubs,1984,1984,P,donruss,166,0,0,0,0,1,0,Leaf variant
+Albert Almora,Chicago Cubs,2019,2018,OF,topps,226,1,0,0,0,1,0,
+Doug Capilla,Chicago Cubs,1982,1981,P,topps,537,0,0,0,0,1,0,
+Steve Trout,Chicago Cubs,1984,1984,P,donruss,243,0,0,0,0,1,0,Leaf variant
+Craig Kimbrel,Chicago Cubs,2020,2019,P,topps,177,1,0,0,0,8,0,
+Steve Trout,Chicago Cubs,1985,1984,P,topps,668,0,0,0,0,1,0,
+Dick Ruthven,Chicago Cubs,1985,1984,P,topps,563,0,0,0,0,1,0,
+Billy Hatcher,Chicago Cubs,1984,1984,OF,donruss,41,0,0,0,0,1,1,Rated Rookie
+Scott Sanderson,Chicago Cubs,1984,1984,P,donruss,194,0,0,0,0,2,0,Leaf variant
+Jody Davis,Chicago Cubs,1984,1984,C,donruss,180,0,0,0,0,1,0,Leaf variant
+Keith Moreland,Chicago Cubs,1984,1984,OF,donruss,197,0,0,0,0,1,0,Leaf variant
+Mike Morgan,Chicago Cubs,1994,1993,P,upper deck,451,0,0,0,0,1,1,Electric Diamond
+Brandon Kintzler,Chicago Cubs,2019,2018,P,topps,US275,0,0,0,0,1,0,
+Ron Cey,Chicago Cubs,1984,1984,3B,donruss,84,0,0,0,0,1,0,Leaf variant
+Darrin Jackson,Chicago Cubs,1989,1988,OF,upper deck,214,0,0,0,0,1,0,
+Dick Tidrow,Chicago Cubs,1982,1981,P,topps,699,0,0,0,0,2,0,
+Jose Quintana,Chicago Cubs,2020,2019,P,topps,139,0,0,0,0,4,0,
+Albert Almora,Chicago Cubs,2020,2019,OF,topps,37,0,0,0,0,4,0,
+Ryne Sandberg,Chicago Cubs,1992,1991,2B,leaf,18,0,0,0,0,1,0,
+Ryne Sandberg,Chicago Cubs,1991,1990,2B,leaf,158,0,0,0,0,2,0,
+Ryne Sandberg,Chicago Cubs,1992,1991,2B,pinnacle,10,0,0,0,0,2,0,
+Angel Salazar,Chicago Cubs,1989,1988,SS,upper deck,222,0,0,0,0,1,0,
+Doug Dascenzo,Chicago Cubs,1989,1988,OF,upper deck,10,0,1,0,0,1,0,
+Manny Trillo,Chicago Cubs,1989,1988,"1B, 2B, 3B, SS",upper deck,127,0,0,0,0,1,0,
+Paul Kilgus,Chicago Cubs,1989,1988,P,upper deck,797,0,0,0,0,1,0,
+Steve Wilson,Chicago Cubs,1989,1988,P,upper deck,799,0,0,0,0,1,0,
+Jerome Walton,Chicago Cubs,1989,1988,OF,upper deck,765,0,0,0,0,1,0,
+Goose Gossage,Chicago Cubs,1989,1988,P,upper deck,452,0,0,0,0,1,0,
+Les Lancaster,Chicago Cubs,1989,1988,P,upper deck,84,0,0,0,0,1,0,
+Darrin Jackson,Chicago Cubs,1989,1988,OF,upper deck,214,0,0,0,0,2,0,
+Dwight Smith,Chicago Cubs,1989,1988,OF,upper deck,780,0,0,0,0,1,0,
+Jay Johnstone,Chicago Cubs,1983,1983,OF,topps,152,0,0,0,0,1,0,
+Bob Dernier,Chicago Cubs,1984,1984,OF,donruss,510,0,0,0,0,1,0,
+Kyle Hendricks,Chicago Cubs,2020,2019,P,topps,26,0,0,0,0,7,0,
+Mitch Williams,Chicago Cubs,1990,1989,P,leaf,156,0,0,0,0,1,0,
+Albert Almora,Chicago Cubs,2015,2014,OF,bowman,199,0,0,0,0,3,0,One is Chrome
+Jason Heyward,Chicago Cubs,2017,2016,OF,topps,223,1,0,0,0,1,0,
+Kyle Schwarber,Chicago Cubs,2019,2018,OF,topps,356,0,0,0,0,1,1,The World's Champions (Allen & Ginter)
+Randy Martz,Chicago Cubs,1982,1981,P,donruss,126,0,0,0,0,1,0,
+Neal Cotts,Chicago Cubs,2009,2008,P,topps,226,1,0,0,0,1,0,
+Carlos Zambrano,Chicago Cubs,2009,2008,P,topps,265,0,0,0,0,1,0,
+Ken Kravec,Chicago Cubs,1982,1981,P,topps,639,0,0,0,0,2,0,
+Jim Frey,Chicago Cubs,1984,1983,manager,topps,51,0,0,0,0,1,0,
+Samy Sosa,Chicago Cubs,2004,2003,OF,leaf,PTT-255,0,0,0,0,1,1,Passing Through Time
+Dick Ruthven,Chicago Cubs,1985,1985,P,donruss,564,0,0,0,0,1,0,
+Warren Brusstar,Chicago Cubs,1985,1985,P,donruss,555,0,0,0,0,1,0,
+Davey Lopes,Chicago Cubs,1984,1984,"1B, 2B, 3B, SS, OF",donruss,604,0,0,0,0,1,0,
+Larry Bowa,Chicago Cubs,1984,1984,SS,donruss,361,0,0,0,0,1,0,
+Wade Davis,Chicago Cubs,2017,2016,P,topps,US228,0,0,0,0,1,0,
+Jose Quintana,Chicago Cubs,2017,2016,P,topps,US212,0,0,0,0,1,0,
+Brian Duensing,Chicago Cubs,2017,2016,P,topps,US263,0,0,0,0,1,0,
+Kyle Schwarber,Chicago Cubs,2020,2019,OF,topps,119,0,0,0,0,1,0,
+Mike Brumley,Chicago Cubs,1987,1987,SS,donruss,609,0,0,0,0,1,0,
+Shawon Dunston,Chicago Cubs,1987,1987,SS,donruss,146,0,0,0,0,1,0,
+Junior Lake,Chicago Cubs,2014,2013,OF,topps,42,0,0,0,0,1,1,The World's Champions (Allen & Ginter)
+Albert Almora Jr.,Chicago Cubs,2021,2020,OF,topps,232,0,0,0,0,1,0,
+Joe Girardi,Chicago Cubs,1990,1989,C,score,535,0,0,0,0,1,0,
+Andre Dawson,Chicago Cubs,1991,1990,OF,fleer,419,0,0,0,0,1,0,
+Ron Cey,Chicago Cubs,1987,1976,3B,topps,767,0,0,0,0,1,0,
+Mark Grace,Chicago Cubs,1993,1992,1B,bowman,440,0,0,0,0,1,0,
+Rafael Palmeiro,Chicago Cubs,1988,1988,OF,donruss,49,0,0,0,0,1,0,
+George Bell,Chicago Cubs,1991,1990,OF,upper deck,236,0,0,0,0,1,0,
+Hector Villanueva,Chicago Cubs,1991,1990,C,fleer,436,0,0,0,0,1,0,
+Domingo Ramos,Chicago Cubs,1990,1989,"1B, 2B, 3B, SS",upper deck,85,0,0,0,0,1,0,
+Chris Speier,Chicago Cubs,1987,1987,"3B, SS",topps,424,0,0,0,0,1,0,
+Andre Dawson,Chicago Cubs,1988,1987,OF,topps,500,0,0,0,0,1,0,
+Damon Berryhill,Chicago Cubs,1989,1988,C,topps,543,0,0,0,0,1,1,Topps All-Star Rookie
+Frank DiPino,Chicago Cubs,1989,1988,P,score,146,0,0,0,0,1,0,
+Ryne Sandberg,Chicago Cubs,1990,1989,2B,score,90,0,0,0,0,1,0,
+Bill Long,Chicago Cubs,1990,1989,P,upper deck,495,0,0,0,0,1,0,
+Rick Sutcliffe,Chicago Cubs,1990,1989,P,upper deck,473,0,0,0,0,1,0,
+Mike Bielecki,Chicago Cubs,1990,1989,P,upper deck,597,0,0,0,0,1,0,
+Mitch Williams,Chicago Cubs,1990,1989,P,upper deck,174,0,0,0,0,1,0,
