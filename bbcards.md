@@ -1,18 +1,12 @@
----
-title: "Analysis of Baseball Cards"
-output: github_document
----
+Analysis of Baseball Cards
+================
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-```{r packages, message=FALSE}
+``` r
 library(tidyverse)
 library(lubridate)
 ```
 
-```{r read_data, message=FALSE}
+``` r
 # Loop through team files to get data file paths
 my_files <- list.files(path=here::here("card_data/"), pattern="*.csv", full.names = TRUE)
 
@@ -28,10 +22,10 @@ card_data <- read_csv(my_files, na = c("", "NA", "none")) %>%
   )
 ```
 
-```{r count_by_brand}
+``` r
 card_data %>% 
   ggplot(aes(x = brand)) +
   geom_bar(color = "black", fill = "orange")
 ```
 
-
+![](bbcards_files/figure-gfm/count_by_brand-1.png)<!-- -->
