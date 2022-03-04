@@ -30,8 +30,29 @@ card_data <- read_csv(my_files, na = c("", "NA", "none")) %>%
 
 ```{r count_by_brand}
 card_data %>% 
+  filter(brand != 'topps') %>% 
   ggplot(aes(x = brand)) +
-  geom_bar(color = "black", fill = "orange")
+  geom_bar(color = "black", fill = "orange2")
 ```
 
+```{r}
+summaries_team <- card_data %>% 
+  group_by(team) %>% 
+  summarise(count = sum(count), horiz = sum(horizontal), rc = sum(rookie_card), od = sum(opening_day), asg = sum(asg), special = sum(special)) %>% 
+  arrange(desc(count))
+```
+
+```{r}
+summaries_brand <- card_data %>% 
+  group_by(brand) %>% 
+  summarise(count = sum(count), horiz = sum(horizontal), rc = sum(rookie_card), od = sum(opening_day), asg = sum(asg), special = sum(special)) %>% 
+  arrange(desc(count))
+```
+
+```{r}
+team_brand <- card_data %>% 
+  select(team, brand) %>% 
+  group_by(team, brand) %>% 
+  summarise(n = n())
+```
 
