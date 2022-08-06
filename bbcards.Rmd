@@ -56,3 +56,9 @@ team_brand <- card_data %>%
   summarise(n = n())
 ```
 
+```{r}
+rc <- card_data %>% 
+  select(name, team, brand, rookie_card) %>% 
+  filter(brand == 'topps' & rookie_card == 1)
+
+```
