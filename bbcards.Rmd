@@ -61,4 +61,6 @@ rc <- card_data %>%
   select(name, team, brand, rookie_card) %>% 
   filter(brand == 'topps' & rookie_card == 1)
 
+n_cards <- sum(card_data$count)
+
 ```
