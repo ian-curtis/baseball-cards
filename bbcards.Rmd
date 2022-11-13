@@ -3,10 +3,6 @@ title: "Analysis of Baseball Cards"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ```{r packages, message=FALSE}
 library(tidyverse)
 library(lubridate)
@@ -14,7 +10,7 @@ library(lubridate)
 
 ```{r read_data, message=FALSE}
 # Loop through team files to get data file paths
-my_files <- list.files(path=here::here("card_data/"), pattern="*.csv", full.names = TRUE)
+my_files <- list.files(path=("baseball-cards/card_data/"), pattern="*.csv", full.names = TRUE)
 
 # Read in files with the tidyverse, removing rows with all NA, and correcting a typo
 card_data <- read_csv(my_files, na = c("", "NA", "none")) %>% 
@@ -58,9 +54,15 @@ team_brand <- card_data %>%
 
 ```{r}
 rc <- card_data %>% 
-  select(name, team, brand, rookie_card) %>% 
+  select(name, team, year, brand, rookie_card) %>% 
   filter(brand == 'topps' & rookie_card == 1)
 
 n_cards <- sum(card_data$count)
 
 ```
+
+```{r}
+card_data %>% 
+  filter(position == 'split' & !team == 'Split Card')
+```
+
