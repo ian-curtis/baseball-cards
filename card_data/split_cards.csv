@@ -1,101 +1,114 @@
-﻿name,team,year,season,position,brand,card_number,horizontal,rookie_card,opening_day,asg,count,special,attax,future_stars,chrome,gallery,first_bowman,parallel,refractor,all_star_rookie,stadium_club,heritage,allen_ginter,auto,numbered,notes
-"Cabrera, Mauer, Trout",Split Card,2014,2013,split,topps,103,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Batting Average Leaders
-"Sabathia, Lester, Price",Split Card,2011,2010,split,topps,124,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Wins Leaders
-"Goldschmidt, Bruce, Freeman",Split Card,2014,2013,split,topps,143,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Runs Batted In Leaders
-"Kershaw, Fernandez, Harvey",Split Card,2014,2013,split,topps,113,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Earn Run Average Leaders
-"Hernandez, Buchholz, Price",Split Card,2011,2010,split,topps,235,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Topps Diamond Anniversary, 2010 AL Earned Run Average Leaders"
-"Davis, Cabrera, Jones",Split Card,2014,2013,split,topps,153,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Runs Batted In Leaders
-"Wainwright, Zimmerman, Kershaw",Split Card,2014,2013,split,topps,294,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Wins Leaders
-"Alvarez, Goldschmidt, Bruce",Split Card,2014,2013,split,topps,38,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Home Run Leaders
-"Davis, Cabrera, Encarnacion",Split Card,2014,2013,split,topps,29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Home Run Leaders
-"Sanchez, Colon, Iwakuma",Split Card,2014,2013,split,topps,177,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Earn Run Average Leaders
-"Cuddyer, Johnson, Freeman",Split Card,2014,2013,split,topps,237,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Batting Average Leaders
-"Scherzer, Colon, Moore",Split Card,2014,2013,split,topps,299,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Wins Leaders
-"Cabrera, Hamilton, Encarnacion",Split Card,2013,2012,split,topps,194,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012 AL Runs Batted In Leaders
-"Don Mattingly, Eric Hosmer",Split Card,2012,2011,split,topps,TT-3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Timeless Talents
-"Rodriguez, Thome, Giambi",Split Card,2012,2011,split,topps,91,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Active AL Home Run Leaders
-"Bautista, Konerko, Cabrera",Split Card,2011,2010,split,topps,202,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Home Run Leaders
-"Hamilton, Cabrera, Mauer",Split Card,2011,2010,split,topps,109,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Batting Average Leaders
-"Braun, Stanton, Bruce",Split Card,2013,2012,split,topps,246,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012 NL Home Run Leaders
-"Pujols, Dunn, Votto",Split Card,2011,2010,split,topps,318,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Home Run Leaders
-"Pujols, Gonzalez, Votto",Split Card,2011,2010,split,topps,138,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Runs Batted In Leaders
-"Halladay, Wainwright, Jiminez",Split Card,2011,2010,split,topps,11,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Wins Leaders
-"Jones, Pujols, Jones",Split Card,2012,2011,split,topps,192,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Active NL Home Run Leaders
-"Phil Niekro, Nolan Ryan",Split Card,2011,2010,split,topps,60YOT-27,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"60 Years of Topps (#206 1978 TOPPS), Strikeout Leaders"
-"Price, Weaver, Harrision",Split Card,2013,2012,split,topps,95,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012 AL Wins Leaders
-"Hernandez, Oswalt, Wolf",Split Card,2012,2011,split,topps,29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Active NL Wins Leaders
-"Cabrera, Rodriguez, Bautista",Split Card,2011,2010,split,topps,306,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Runs Batted In Leaders
-"Gonzalez, Votto, Infante",Split Card,2011,2010,split,topps,134,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Batting Average Leaders
-"Verlander, Sabathia, Weaver",Split Card,2012,2011,split,topps,319,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2011 AL Wins Leaders
-"Johnson, Wainwright, Halladay",Split Card,2011,2010,split,topps,82,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Earned Run Average Leaders
-"Joey Votto, Adrian Gonzalez",Split Card,2011,2010,split,topps,DD-VG,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Diamond Duos
-"Joe Morgan, Brandon Phillips",Split Card,2012,2011,split,topps,TT-17,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Timeless Talents
-John McCain vs. Hillary Clinton,Split Card,2008,2007,split,upper deck,PP-11A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Presidential Predictors  (Yankees vs. Red Sox)
-"Buck Showalter, Jim Fregosi",Split Card,1993,1992,split,topps,510,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Major League Managers
-"Phil Garner, Felipe Alou",Split Card,1993,1992,split,topps,508,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Major League Managers
-"Adrian Gonzalez, Jake Peavy, Brian Giles",Split Card,2009,2008,split,upper deck,438,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-"Wilmer Flores, Michael Conforto",Split Card,2017,2016,split,topps,US111,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"""Meat"" of the Mets, Versatile Duo Has It Covered"
-"Lance Berkman, Carlos Lee",Split Card,2009,2008,split,topps,61,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bash-stros
-"Carlos Guillen, Miguel Cabrera",Split Card,2009,2008,split,topps,434,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Detroit Power Authority
-"Eric Thames, Ryan Braun",Split Card,2017,2016,split,topps,US206,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Partners in Pop, There's A Lot Brewing in Milwaukee"
-"Tim Lincecum, Randy Winn, Bengle Molins",Split Card,2009,2008,split,upper deck,454,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-"Carlos Quentin, Gavin Floyd, Javier Vazquez",Split Card,2009,2008,split,upper deck,435,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-"Barry Bonds, Joe Carter",Split Card,1994,1994,split,fleer,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-"Nate McLouth, Adam LaRoche, Pat Maholm",Split Card,2009,2008,split,upper deck,448,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-"Jarrod Saltalamacchia, Josh Hamilton",Split Card,2009,2008,split,topps,201,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brothers In Arms
-"Jeremy Sowers, Aaron Laffey",Split Card,2009,2008,split,topps,333,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Chief Lefties
-"Joey Votto, Billy Hamilton",Split Card,2017,2016,split,topps,US155,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Run And Hit, Speed + Swat = Reds Runs"
-"Russell Martin, Roberto Osuna",Split Card,2017,2016,split,topps,US57,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Charged-Up Battery, Catcher, Closer Make Closing Argument"
-"Alex Rios, Vernon Wells",Split Card,2009,2008,split,topps,361,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Power Jays
-"Roy Halladay, A.J. Burnett, Alex Rios",Split Card,2009,2008,split,upper deck,455,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-"Kevin Mitchell, Joe Carter",Split Card,1994,1994,split,donruss,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bomb Squad
-"John Lester, Jason Bay",Split Card,2009,2008,split,topps,89,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Postseason Highlights (ALDS - Lester and Bay Dominate Angels)
-"J.D. Martinez, Mookie Betts",Split Card,2019,2018,split,topps,US246,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Iced Out, We Need Some Really Big Rings"
-"Brandon Webb, Dan Haren",Split Card,2009,2008,split,topps,157,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Desert Heat
-"Justin Upton, Chris Young",Split Card,2009,2008,split,topps,628,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Desert Power
-"Scott Kazmir, David Price",Split Card,2009,2008,split,topps,321,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ray Guns
-"B.J. Upton, Evan Longoria, Carl Crawford",Split Card,2009,2008,split,topps,246,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Postseason Highlights (ALCS - Young Guns Send Rays To First World Series)
-"Carlos Pena, Akinori Iwamura, B.J. Upton",Split Card,2009,2008,split,topps,443,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-"Tim Redding, Cristian Guzman, Lastings Milledge",Split Card,2009,2008,split,upper deck,460,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
-Cal Jr. & Billy,Split Card,1991,1990,split,upper deck,82,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bloodlines
-"Matt Wotherspoon, Branden Kline",Split Card,2019,2018,split,topps,US264,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rookie Combos
-"Ichiro, Jason Giambi, Roberto Alomar",Split Card,2001,2001,split,topps,337,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,League Leaders (Batting Average)
-"Johan Santana, Tim Lincecum, Jake Peavy",Split Card,2009,2008,split,topps,206,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2008 National League Leaders - Earned Run Average
-"Tim Raines, Jose Cruz, Vince Coleman",Split Card,1986,1986,split,sportflics,152,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: National League Left Fielders
-"Gary Carter, Tony Pena, Mike Scioscia",Split Card,1986,1986,split,sportflics,151,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: National League Catchers
-"Lance Parrish, Don Slaught, Rich Gedman",Split Card,1986,1986,split,sportflics,154,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: American League Catchers
-"Jesse Barfield, Harold Baines, Dave Winfield",Split Card,1986,1986,split,sportflics,153,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: American League Right Fielders
-"Darryl Strawberry, Eric Davis",Split Card,1988,1987,split,fleer,637,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cruch Time (Superstar Special)
-"Roy Smalley Sr., Roy Smalley Jr.",Split Card,1985,1984,split,topps,140,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Father Son
-"Bill Kunkel, Jeff Kunkel",Split Card,1985,1984,split,topps,136,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Father Son
-"Fernando Valenzuela, Dwight Gooden",Split Card,1986,1985,split,fleer,641,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Staff Aces (Superstar Special)
-"Luke Voit, Jose Abreu, Jose Ramirez, Mike Trout",Split Card,2021,2020,split,topps,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"2020 HR Leaders, Topps Heritage"
-"Nate Pearson, Tom Hatch",Split Card,2021,2020,split,topps,301,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021 Rookie Stars (Blue Jays)
-"Gerrit Cole, Chris Flexen, Steven Matz",Split Card,2022,2021,split,topps,270,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Wins Leaders
-Slugger Reunion,Split Card,2022,2021,split,topps,329,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hometown Friends Catch Up During Pregame (Checklist)
-Minnesota Meetup,Split Card,2022,2021,split,topps,122,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ohtani and Maeda Catch Up During Pregame (Checklist)
-"Fernando Tatis Jr., Adam Duvall, Pete Alonso",Split Card,2022,2021,split,topps,146,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Home Run Leaders
-"Cobin Burns, Max Scherzer, Walker Buehler",Split Card,2022,2021,split,topps,204,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL ERA Leaders
-"Robbie Ray, Lance McCullers Jr., Gerrit Cole",Split Card,2022,2021,split,topps,283,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL ERA Leaders
-"Vladimir Guerrero Jr., Salvador Perez, Shohei Ohtani",Split Card,2022,2021,split,topps,48,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Home Run Leaders
-How Far?,Split Card,2022,2021,split,topps,320,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tatis and Vlad React to T-Mobile Home Run Derby (Checklist)
-"Trea Turner, Juan Soto, Bryce Harper",Split Card,2022,2021,split,topps,59,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Batting Average Leaders
-"Julio Urias, Adam Wainwright, Walker Buehler",Split Card,2022,2021,split,topps,105,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Wins Leaders
-"Yuli Gurriel, Michael Brantley, Vladimir Guerrero Jr.",Split Card,2022,2021,split,topps,165,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Batting Average Leaders
-"Salvador Perez, Jose Abreu, Teoscar Hernandez",Split Card,2022,2021,split,topps,202,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Runs Batted In Leaders
-"Robbie Ray, Gerrit Cole, Dylan Cease",Split Card,2022,2021,split,topps,138,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Strikeout Leaders
-"Zack Wheeler, Max Scherzer, Corbin Burnes",Split Card,2022,2021,split,topps,127,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Strikout Leaders
-"Adam Duvall, Austin Riley, Ozzie Albies",Split Card,2022,2021,split,topps,181,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Runs Batted In Leaders
-"Manny Machado, Fernano Tatis Jr.",Split Card,2022,2021,split,topps,648,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,A Powerful Honor (checklist)
-"Yadier Molina, Adam Wainwright",Split Card,2022,2021,split,topps,473,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Overarching Battery (checklist)
-"Francisco Lindor, Pete Alonso",Split Card,2022,2021,split,topps,436,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Superstars in the Big Apple (checklist)
-"Dansby Swanson, Ozzie Albies",Split Card,2022,2021,split,topps,342,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Postseaon Passion (checklist)
-"Shohei Ohtani, Brandon Marsh",Split Card,2022,2021,split,topps,416,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dugout Congratulations (checklist)
-"Rafael Devers, Enrique Hernandez",Split Card,2022,2021,split,topps,630,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Boston Bashers (checklist)
-"Vladimir Guerrero Jr., Bo Bichette",Split Card,2022,2021,split,topps,381,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Toronto Talent (checklist)
-"Aaron Judge, Giancarlo Stanton",Split Card,2022,2021,split,topps,399,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fenway Park Fireworks (checklist)
-"Bryce Harper, Wander Franco",Split Card,2022,2021,split,topps,367,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MVP Meets Rookie (checklist)
-"Manny Machado, Jurickson Profar",Split Card,2022,2021,split,topps,US83,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Picture Perfect
-"Dylan Coleman, Collin Snider",Split Card,2022,2021,split,topps,US147,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rookie Combos
-"Ketel Marte, Christian Walker",Split Card,2022,2021,split,topps,US221,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Veteran Combos (Marte Gets the Shower After Walk-Off)
-"Carlos Correa, Byron Buxton",Split Card,2022,2021,split,topps,US230,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Veteran Combos (New Teammates Focus Before Opening Day)
+﻿name,team,year,season,position,brand,card_number,horizontal,rookie_card,opening_day,asg,count,special,attax,future_stars,chrome,gallery,first_bowman,parallel,refractor,all_star_rookie,stadium_club,heritage,allen_ginter,auto,numbered,imitation,notes
+"Cabrera, Mauer, Trout",Split Card,2014,2013,split,topps,103,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Batting Average Leaders
+"Sabathia, Lester, Price",Split Card,2011,2010,split,topps,124,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Wins Leaders
+"Goldschmidt, Bruce, Freeman",Split Card,2014,2013,split,topps,143,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Runs Batted In Leaders
+"Kershaw, Fernandez, Harvey",Split Card,2014,2013,split,topps,113,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Earn Run Average Leaders
+"Hernandez, Buchholz, Price",Split Card,2011,2010,split,topps,235,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Topps Diamond Anniversary, 2010 AL Earned Run Average Leaders"
+"Davis, Cabrera, Jones",Split Card,2014,2013,split,topps,153,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Runs Batted In Leaders
+"Wainwright, Zimmerman, Kershaw",Split Card,2014,2013,split,topps,294,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Wins Leaders
+"Alvarez, Goldschmidt, Bruce",Split Card,2014,2013,split,topps,38,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Home Run Leaders
+"Davis, Cabrera, Encarnacion",Split Card,2014,2013,split,topps,29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Home Run Leaders
+"Sanchez, Colon, Iwakuma",Split Card,2014,2013,split,topps,177,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Earn Run Average Leaders
+"Cuddyer, Johnson, Freeman",Split Card,2014,2013,split,topps,237,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National League - 2013 Batting Average Leaders
+"Scherzer, Colon, Moore",Split Card,2014,2013,split,topps,299,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,American League - 2013 Wins Leaders
+"Cabrera, Hamilton, Encarnacion",Split Card,2013,2012,split,topps,194,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012 AL Runs Batted In Leaders
+"Don Mattingly, Eric Hosmer",Split Card,2012,2011,split,topps,TT-3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Timeless Talents
+"Rodriguez, Thome, Giambi",Split Card,2012,2011,split,topps,91,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Active AL Home Run Leaders
+"Bautista, Konerko, Cabrera",Split Card,2011,2010,split,topps,202,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Home Run Leaders
+"Hamilton, Cabrera, Mauer",Split Card,2011,2010,split,topps,109,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Batting Average Leaders
+"Braun, Stanton, Bruce",Split Card,2013,2012,split,topps,246,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012 NL Home Run Leaders
+"Pujols, Dunn, Votto",Split Card,2011,2010,split,topps,318,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Home Run Leaders
+"Pujols, Gonzalez, Votto",Split Card,2011,2010,split,topps,138,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Runs Batted In Leaders
+"Halladay, Wainwright, Jiminez",Split Card,2011,2010,split,topps,11,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Wins Leaders
+"Jones, Pujols, Jones",Split Card,2012,2011,split,topps,192,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Active NL Home Run Leaders
+"Phil Niekro, Nolan Ryan",Split Card,2011,2010,split,topps,60YOT-27,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"60 Years of Topps (#206 1978 TOPPS), Strikeout Leaders"
+"Price, Weaver, Harrision",Split Card,2013,2012,split,topps,95,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012 AL Wins Leaders
+"Hernandez, Oswalt, Wolf",Split Card,2012,2011,split,topps,29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Active NL Wins Leaders
+"Cabrera, Rodriguez, Bautista",Split Card,2011,2010,split,topps,306,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 AL Runs Batted In Leaders
+"Gonzalez, Votto, Infante",Split Card,2011,2010,split,topps,134,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Batting Average Leaders
+"Verlander, Sabathia, Weaver",Split Card,2012,2011,split,topps,319,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2011 AL Wins Leaders
+"Johnson, Wainwright, Halladay",Split Card,2011,2010,split,topps,82,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010 NL Earned Run Average Leaders
+"Joey Votto, Adrian Gonzalez",Split Card,2011,2010,split,topps,DD-VG,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diamond Duos
+"Joe Morgan, Brandon Phillips",Split Card,2012,2011,split,topps,TT-17,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Timeless Talents
+John McCain vs. Hillary Clinton,Split Card,2008,2007,split,upper deck,PP-11A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Presidential Predictors  (Yankees vs. Red Sox)
+"Buck Showalter, Jim Fregosi",Split Card,1993,1992,split,topps,510,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Major League Managers
+"Phil Garner, Felipe Alou",Split Card,1993,1992,split,topps,508,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Major League Managers
+"Adrian Gonzalez, Jake Peavy, Brian Giles",Split Card,2009,2008,split,upper deck,438,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+"Wilmer Flores, Michael Conforto",Split Card,2017,2016,split,topps,US111,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"""Meat"" of the Mets, Versatile Duo Has It Covered"
+"Lance Berkman, Carlos Lee",Split Card,2009,2008,split,topps,61,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bash-stros
+"Carlos Guillen, Miguel Cabrera",Split Card,2009,2008,split,topps,434,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Detroit Power Authority
+"Eric Thames, Ryan Braun",Split Card,2017,2016,split,topps,US206,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Partners in Pop, There's A Lot Brewing in Milwaukee"
+"Tim Lincecum, Randy Winn, Bengle Molins",Split Card,2009,2008,split,upper deck,454,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+"Carlos Quentin, Gavin Floyd, Javier Vazquez",Split Card,2009,2008,split,upper deck,435,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+"Barry Bonds, Joe Carter",Split Card,1994,1994,split,fleer,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Nate McLouth, Adam LaRoche, Pat Maholm",Split Card,2009,2008,split,upper deck,448,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+"Jarrod Saltalamacchia, Josh Hamilton",Split Card,2009,2008,split,topps,201,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brothers In Arms
+"Jeremy Sowers, Aaron Laffey",Split Card,2009,2008,split,topps,333,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Chief Lefties
+"Joey Votto, Billy Hamilton",Split Card,2017,2016,split,topps,US155,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Run And Hit, Speed + Swat = Reds Runs"
+"Russell Martin, Roberto Osuna",Split Card,2017,2016,split,topps,US57,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Charged-Up Battery, Catcher, Closer Make Closing Argument"
+"Alex Rios, Vernon Wells",Split Card,2009,2008,split,topps,361,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Power Jays
+"Roy Halladay, A.J. Burnett, Alex Rios",Split Card,2009,2008,split,upper deck,455,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+"Kevin Mitchell, Joe Carter",Split Card,1994,1994,split,donruss,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bomb Squad
+"John Lester, Jason Bay",Split Card,2009,2008,split,topps,89,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Postseason Highlights (ALDS - Lester and Bay Dominate Angels)
+"J.D. Martinez, Mookie Betts",Split Card,2019,2018,split,topps,US246,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Iced Out, We Need Some Really Big Rings"
+"Brandon Webb, Dan Haren",Split Card,2009,2008,split,topps,157,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Desert Heat
+"Justin Upton, Chris Young",Split Card,2009,2008,split,topps,628,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Desert Power
+"Scott Kazmir, David Price",Split Card,2009,2008,split,topps,321,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ray Guns
+"B.J. Upton, Evan Longoria, Carl Crawford",Split Card,2009,2008,split,topps,246,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Postseason Highlights (ALCS - Young Guns Send Rays To First World Series)
+"Carlos Pena, Akinori Iwamura, B.J. Upton",Split Card,2009,2008,split,topps,443,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+"Tim Redding, Cristian Guzman, Lastings Milledge",Split Card,2009,2008,split,upper deck,460,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Leaders
+Cal Jr. & Billy,Split Card,1991,1990,split,upper deck,82,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bloodlines
+"Matt Wotherspoon, Branden Kline",Split Card,2019,2018,split,topps,US264,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rookie Combos
+"Ichiro, Jason Giambi, Roberto Alomar",Split Card,2001,2001,split,topps,337,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,League Leaders (Batting Average)
+"Johan Santana, Tim Lincecum, Jake Peavy",Split Card,2009,2008,split,topps,206,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2008 National League Leaders - Earned Run Average
+"Tim Raines, Jose Cruz, Vince Coleman",Split Card,1986,1986,split,sportflics,152,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: National League Left Fielders
+"Gary Carter, Tony Pena, Mike Scioscia",Split Card,1986,1986,split,sportflics,151,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: National League Catchers
+"Lance Parrish, Don Slaught, Rich Gedman",Split Card,1986,1986,split,sportflics,154,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: American League Catchers
+"Jesse Barfield, Harold Baines, Dave Winfield",Split Card,1986,1986,split,sportflics,153,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Best In Baseball: American League Right Fielders
+"Darryl Strawberry, Eric Davis",Split Card,1988,1987,split,fleer,637,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cruch Time (Superstar Special)
+"Roy Smalley Sr., Roy Smalley Jr.",Split Card,1985,1984,split,topps,140,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Father Son
+"Bill Kunkel, Jeff Kunkel",Split Card,1985,1984,split,topps,136,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Father Son
+"Fernando Valenzuela, Dwight Gooden",Split Card,1986,1985,split,fleer,641,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Staff Aces (Superstar Special)
+"Luke Voit, Jose Abreu, Jose Ramirez, Mike Trout",Split Card,2021,2020,split,topps,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2020 HR Leaders, Topps Heritage"
+"Nate Pearson, Tom Hatch",Split Card,2021,2020,split,topps,301,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021 Rookie Stars (Blue Jays)
+"Gerrit Cole, Chris Flexen, Steven Matz",Split Card,2022,2021,split,topps,270,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Wins Leaders
+Slugger Reunion,Split Card,2022,2021,split,topps,329,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hometown Friends Catch Up During Pregame (Checklist)
+Minnesota Meetup,Split Card,2022,2021,split,topps,122,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ohtani and Maeda Catch Up During Pregame (Checklist)
+"Fernando Tatis Jr., Adam Duvall, Pete Alonso",Split Card,2022,2021,split,topps,146,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Home Run Leaders
+"Cobin Burns, Max Scherzer, Walker Buehler",Split Card,2022,2021,split,topps,204,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL ERA Leaders
+"Robbie Ray, Lance McCullers Jr., Gerrit Cole",Split Card,2022,2021,split,topps,283,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL ERA Leaders
+"Vladimir Guerrero Jr., Salvador Perez, Shohei Ohtani",Split Card,2022,2021,split,topps,48,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Home Run Leaders
+How Far?,Split Card,2022,2021,split,topps,320,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tatis and Vlad React to T-Mobile Home Run Derby (Checklist)
+"Trea Turner, Juan Soto, Bryce Harper",Split Card,2022,2021,split,topps,59,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Batting Average Leaders
+"Julio Urias, Adam Wainwright, Walker Buehler",Split Card,2022,2021,split,topps,105,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Wins Leaders
+"Yuli Gurriel, Michael Brantley, Vladimir Guerrero Jr.",Split Card,2022,2021,split,topps,165,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Batting Average Leaders
+"Salvador Perez, Jose Abreu, Teoscar Hernandez",Split Card,2022,2021,split,topps,202,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Runs Batted In Leaders
+"Robbie Ray, Gerrit Cole, Dylan Cease",Split Card,2022,2021,split,topps,138,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL Strikeout Leaders
+"Zack Wheeler, Max Scherzer, Corbin Burnes",Split Card,2022,2021,split,topps,127,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Strikout Leaders
+"Adam Duvall, Austin Riley, Ozzie Albies",Split Card,2022,2021,split,topps,181,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Runs Batted In Leaders
+"Manny Machado, Fernano Tatis Jr.",Split Card,2022,2021,split,topps,648,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,A Powerful Honor (checklist)
+"Yadier Molina, Adam Wainwright",Split Card,2022,2021,split,topps,473,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Overarching Battery (checklist)
+"Francisco Lindor, Pete Alonso",Split Card,2022,2021,split,topps,436,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Superstars in the Big Apple (checklist)
+"Dansby Swanson, Ozzie Albies",Split Card,2022,2021,split,topps,342,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Postseaon Passion (checklist)
+"Shohei Ohtani, Brandon Marsh",Split Card,2022,2021,split,topps,416,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dugout Congratulations (checklist)
+"Rafael Devers, Enrique Hernandez",Split Card,2022,2021,split,topps,630,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Boston Bashers (checklist)
+"Vladimir Guerrero Jr., Bo Bichette",Split Card,2022,2021,split,topps,381,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Toronto Talent (checklist)
+"Aaron Judge, Giancarlo Stanton",Split Card,2022,2021,split,topps,399,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fenway Park Fireworks (checklist)
+"Bryce Harper, Wander Franco",Split Card,2022,2021,split,topps,367,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MVP Meets Rookie (checklist)
+"Manny Machado, Jurickson Profar",Split Card,2022,2021,split,topps,US83,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Picture Perfect
+"Dylan Coleman, Collin Snider",Split Card,2022,2021,split,topps,US147,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rookie Combos
+"Ketel Marte, Christian Walker",Split Card,2022,2021,split,topps,US221,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Veteran Combos (Marte Gets the Shower After Walk-Off)
+"Carlos Correa, Byron Buxton",Split Card,2022,2021,split,topps,US230,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Veteran Combos (New Teammates Focus Before Opening Day)
+"Vladimir Guerrero Jr., Bo Bichette",Split Card,2023,2022,split,topps,216,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Toronto's Young Stars Celebrate (checklist)
+"Aaron Judge, Teammates",Split Card,2023,2022,split,topps,245,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Judge Walks it Off in 10 (checklist)
+"Rhys Hoskings, Teammates",Split Card,2023,2022,split,topps,248,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hoskins Provides Jolt For Phillies (checklist)
+"Miguel Cabrera, Riley Greene",Split Card,2023,2022,split,topps,210,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Greene Continues to Impress (checklist)
+"Joe Ryan, Sonny Gray",Split Card,2023,2022,split,topps,12P-12,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,One-Two Punch
+"Rhys Hoskings, Teammates",Split Card,2023,2022,split,topps,248,1,0,0,0,1,0,0,0,0,0,0,blue,0,0,0,0,0,0,0,0,Hoskins Provides Jolt For Phillies (checklist)
+"Chris Taylor, Teammates",Split Card,2022,2021,split,topps,238,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Chris Taylor Walks Off The NL Wild Card Game (checklist)
+"Tommy Pham, Jake Cronenworth, Jurickson Profar, Fernando Tatis Jr.",Split Card,2022,2021,split,topps,125,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tatis Continues to Lead Padres Slams (checklist)
+"Jorge Alfaro, Teammates",Split Card,2023,2022,split,topps,303,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Teammates Celebrate Walk-off (checklist)
+"Jeff McNeil, Freddie Freeman, Paul Goldschmidt",Split Card,2022,2021,split,topps,43,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Batting Average Leaders
+"Justin Verlander, Dylan Cease, Alek Manoah",Split Card,2022,2021,split,topps,311,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AL ERA Leaders
+"Julio Urias, Sandy Alcantara, Max Fried",Split Card,2022,2021,split,topps,211,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL ERA Leaders
+"Kyle Schwarber, Pete Alonso, Austin Riley",Split Card,2022,2021,split,topps,178,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL Home Run Leaders
