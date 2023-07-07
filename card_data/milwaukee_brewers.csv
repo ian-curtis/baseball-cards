@@ -2,8 +2,8 @@
 Team Card,Milwaukee Brewers,2011,2010,team,topps,187,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jean Segura,Milwaukee Brewers,2014,2013,SS,topps,181,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
 Bernie Brewer,Milwaukee Brewers,2014,2013,mascot,topps,M-4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Ryan Braun & Prince Fielder,Milwaukee Brewers,2010,2009,none,topps,237,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brew Crew Knockout, Series 1 Checklist (3 of 5)"
-Franchise History,Milwaukee Brewers,2010,2011,none,topps,72,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Historial Franchise Stats
+Ryan Braun & Prince Fielder,Milwaukee Brewers,2010,2009,split,topps,237,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brew Crew Knockout, Series 1 Checklist (3 of 5)"
+Franchise History,Milwaukee Brewers,2010,2011,split,topps,72,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Historial Franchise Stats
 Bernie Brewer,Milwaukee Brewers,2012,2011,mascot,topps,M-1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Corey Hart,Milwaukee Brewers,2012,2011,OF,topps,147,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Corey Hart,Milwaukee Brewers,2009,2008,OF,upper deck,170,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -58,7 +58,7 @@ Carlos Gomez,Milwaukee Brewers,2014,2013,OF,topps,302,0,0,0,0,1,0,0,0,0,0,0,0,0,
 Brad Nelson,Milwaukee Brewers,2009,2008,1B,topps,479,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Orlando Arcia,Milwaukee Brewers,2020,2019,SS,topps,149,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Orlando Arcia,Milwaukee Brewers,2020,2019,SS,topps,140,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
-Brandon Woodruff,Milwaukee Brewers,2020,2019,P,topps,32,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Brandon Woodruff,Milwaukee Brewers,2020,2019,P,topps,32,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 LaVel Freeman,Milwaukee Brewers,1989,1988,OF,upper deck,788,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 B.J. Surhoff,Milwaukee Brewers,1989,1988,C,upper deck,343,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Dave Stapleton,Milwaukee Brewers,1989,1988,P,upper deck,304,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -121,9 +121,9 @@ Pete Vuckovich,Milwaukee Brewers,1985,1984,P,topps,254,0,0,0,0,1,0,0,0,0,0,0,0,0
 Jim Sundberg,Milwaukee Brewers,1985,1984,C,topps,446,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bob McClure,Milwaukee Brewers,1984,1984,P,donruss,536,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Rick Manning,Milwaukee Brewers,1984,1984,OF,donruss,237,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Jim Olander,Milwaukee Brewers,1992,1991,OF,bowman,575,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gold Border
-Howard House,Milwaukee Brewers,1992,1991,OF,bowman,581,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gold Border
-John Jaha,Milwaukee Brewers,1992,1991,1B,bowman,542,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gold Border
+Jim Olander,Milwaukee Brewers,1992,1991,OF,bowman,575,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+Howard House,Milwaukee Brewers,1992,1991,OF,bowman,581,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+John Jaha,Milwaukee Brewers,1992,1991,1B,bowman,542,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
 Ted Higuera,Milwaukee Brewers,1985,1985,P,donruss,351,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Rick Waits,Milwaukee Brewers,1984,1984,P,donruss,368,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Yasmani Grandal,Milwaukee Brewers,2019,2018,C,topps,US224,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -179,3 +179,6 @@ Tyrone Taylor,Milwaukee Brewers,2023,2022,OF,topps,61,0,0,0,0,2,0,0,0,0,0,0,0,0,
 Esteury Ruiz,Milwaukee Brewers,2023,2022,OF,topps,88BA-ERZ,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1988,
 Luis Urias,Milwaukee Brewers,2023,2022,"2B, 3B",topps,322,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Christian Yelich,Milwaukee Brewers,2023,2022,OF,topps,SMLB-11,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
+Team Card,Milwaukee Brewers,2023,2022,team,topps,533,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Freddy Peralta,Milwaukee Brewers,2023,2022,P,topps,353,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Brian Anderson,Milwaukee Brewers,2023,2022,"3B, OF",topps,480,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

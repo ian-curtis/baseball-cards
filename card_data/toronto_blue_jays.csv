@@ -60,7 +60,7 @@ Jose Bautista,Toronto Blue Jays,2011,2010,OF,topps,216,0,0,0,0,1,0,0,0,0,0,0,0,0
 Jose Bautista,Toronto Blue Jays,2012,2011,OF,topps,100,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Travis Snider,Toronto Blue Jays,2010,2009,OF,upper deck,513,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Juan Rivera,Toronto Blue Jays,2011,2010,OF,topps,531,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Carlos Delgado,Toronto Blue Jays,1995,1994,C,sportflix,104,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3D Card
+Carlos Delgado,Toronto Blue Jays,1995,1994,C,sportflics,104,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3D Card
 Michael Saunders,Toronto Blue Jays,2017,2016,OF,topps,218,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Roberto Alomar,Toronto Blue Jays,1992,1991,2B,topps,225,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Reese McGuire,Toronto Blue Jays,2020,2019,C,topps,109,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -74,13 +74,13 @@ Jim Clancy,Toronto Blue Jays,1984,1984,P,donruss,439,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Garth Iorg,Toronto Blue Jays,1984,1984,3B,topps,363,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Mark Bomback,Toronto Blue Jays,1982,1981,P,topps,707,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Doyle Alexander,Toronto Blue Jays,1984,1984,P,topps,134,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Teoscar Hernandez,Toronto Blue Jays,2018,2017,OF,topps,184,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cardboard Card (with printed signature)
+Teoscar Hernandez,Toronto Blue Jays,2018,2017,OF,topps,184,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Cardboard Card (with printed signature)
 Paul Molitor,Toronto Blue Jays,1994,1993,DH,donruss,none,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Special Edition
 Shawn Green,Toronto Blue Jays,1999,1998,OF,topps,80,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Topps Gallery (The Art of Collecting)
 Clayton Richard,Toronto Blue Jays,2019,2018,P,topps,US57,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ernie Whitt,Toronto Blue Jays,1985,1985,C,donruss,559,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Leon Roberts,Toronto Blue Jays,1983,1982,OF,topps,89,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Rogers Centre,Toronto Blue Jays,2019,2018,none,topps,245,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Rogers Centre,Toronto Blue Jays,2019,2018,stadium,topps,245,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Joe Smith,Toronto Blue Jays,2017,2016,P,topps,US24,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Roy Halladay,Toronto Blue Jays,2006,2005,P,fleer,34,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 John Olerud,Toronto Blue Jays,1992,1991,1B,topps,777,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -93,7 +93,7 @@ Dennis Lamp,Toronto Blue Jays,1985,1984,P,topps,774,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Damaso Garcia,Toronto Blue Jays,1985,1984,2B,topps,702,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Luis Leal,Toronto Blue Jays,1985,1984,P,topps,622,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jesse Barfield,Toronto Blue Jays,1984,1984,OF,donruss,209,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leaf variant
-Derek Bell,Toronto Blue Jays,1992,1991,OF,bowman,559,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gold Border
+Derek Bell,Toronto Blue Jays,1992,1991,OF,bowman,559,0,0,0,0,1,1,0,0,0,0,0,goild,0,0,0,0,0,0,0,0,
 Duane Ward,Toronto Blue Jays,1994,1993,P,fleer,2 of 10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fleer Ultra (Ultra Firemen)
 Cliff Johnson,Toronto Blue Jays,1984,1984,DH,donruss,512,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Joe Biagini,Toronto Blue Jays,2019,2018,P,topps,US292,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -118,7 +118,7 @@ Dave Stieb,Toronto Blue Jays,1987,1987,P,donruss,148,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Lourdes Gurriel Jr.,Toronto Blue Jays,2021,2020,OF,topps,416,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
 Shun Yamaguchi,Toronto Blue Jays,2021,2020,P,topps,18,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Hyun-Jin Ryu,Toronto Blue Jays,2021,2020,P,topps,208,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
-Randal Grichuk,Toronto Blue Jays,2020,2019,OF,topps,114,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2020
+Randal Grichuk,Toronto Blue Jays,2020,2019,OF,topps,114,0,0,1,0,1,0,0,0,0,0,0,blue,0,0,0,0,0,0,0,0,3/26/20
 Duane Ward,Toronto Blue Jays,1993,1992,P,topps,260,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jim Clancy,Toronto Blue Jays,1988,1988,P,donruss,267,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Pat Borders,Toronto Blue Jays,1990,1990,C,donruss,317,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -170,3 +170,7 @@ Santiago Espinal,Toronto Blue Jays,2023,2022,2B,topps,324,0,0,0,0,2,0,0,0,0,0,0,
 Gabriel Moreno,Toronto Blue Jays,2023,2022,C,topps,169,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Vladimir Guerrero Jr.,Toronto Blue Jays,2022,2021,"1B, DH",topps,SMLB-22,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
 Vladimir Guerrero Jr.,Toronto Blue Jays,2023,2022,"1B, DH",topps,SMLB-19,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB (position is marked as OF on front)
+Whit Merrifield,Toronto Blue Jays,2023,2022,2B,topps,381,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Daulton Varsho,Toronto Blue Jays,2023,2022,"C, OF",topps,501,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Bo Bichette,Toronto Blue Jays,2023,2022,SS,topps,428,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Chris Bassitt,Toronto Blue Jays,2023,2022,P,topps,618,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

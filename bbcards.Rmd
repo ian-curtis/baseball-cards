@@ -6,63 +6,276 @@ output: github_document
 ```{r packages, message=FALSE}
 library(tidyverse)
 library(lubridate)
+library(forcats)
+library(kableExtra)
+library(janitor)
 ```
 
 ```{r read_data, message=FALSE}
 # Loop through team files to get data file paths
-my_files <- list.files(path=("baseball-cards/card_data/"), pattern="*.csv", full.names = TRUE)
+my_files <- list.files(path=("card_data/"), pattern="*.csv", full.names = TRUE)
 
 # Read in files with the tidyverse, removing rows with all NA, and correcting a typo
-card_data <- read_csv(my_files, na = c("", "NA", "none")) %>% 
-  filter_all(any_vars(complete.cases(.))) %>% 
-  mutate(
-    brand = case_when(
-      brand == "sportflicx" ~ "sportflics",
-      brand == 'sportflix' ~ 'sportflics',
-      TRUE ~ brand
-    )
-  )
+cards <- read_csv(my_files, guess_max = 300)
+# 
+# my_theme <-  theme(panel.grid.minor.y = element_blank(),
+#         panel.background = element_rect(fill = 'grey90'),
+#         axis.ticks.x = element_blank(),
+#         axis.ticks.y = element_blank())
 ```
 
 ```{r count_by_brand}
-card_data %>% 
-  filter(brand != 'topps') %>% 
+cards %>% 
+  filter(brand != 'topps') %>%
   ggplot(aes(x = brand)) +
   geom_bar(color = "black", fill = "orange2")
 ```
 
 ```{r}
-summaries_team <- card_data %>% 
+summaries_team <- cards %>% 
   group_by(team) %>% 
   summarise(count = sum(count), horiz = sum(horizontal), rc = sum(rookie_card), od = sum(opening_day), asg = sum(asg), special = sum(special)) %>% 
   arrange(desc(count))
 ```
 
 ```{r}
-summaries_brand <- card_data %>% 
+summaries_brand <- cards %>% 
   group_by(brand) %>% 
   summarise(count = sum(count), horiz = sum(horizontal), rc = sum(rookie_card), od = sum(opening_day), asg = sum(asg), special = sum(special)) %>% 
   arrange(desc(count))
 ```
 
 ```{r}
-team_brand <- card_data %>% 
+team_brand <- cards %>% 
   select(team, brand) %>% 
   group_by(team, brand) %>% 
   summarise(n = n())
 ```
 
-```{r}
-rc <- card_data %>% 
-  select(name, team, year, brand, rookie_card) %>% 
-  filter(brand == 'topps' & rookie_card == 1)
 
-n_cards <- sum(card_data$count)
+
+
+
+
+# Plots for App
+
+```{r}
+cards %>% 
+  filter(parallel != 0) %>% 
+  select(parallel, refractor) %>% 
+  ggplot(aes(x = fct_infreq(parallel))) +
+  geom_bar(fill = "turquoise4") +
+  scale_y_continuous(expand = c(0, 0)) +
+  labs(x = "parallel color",
+       title = "Number of Parallel Cards by Color",
+       subtitle = paste("Total Parallel Cards:", nrow(cards %>% filter(parallel != 0)))) +
+  my_theme
+```
+
+```{r}
+cards %>% 
+  filter(!is.na(position)) %>% 
+  mutate(app_pos = ifelse(nchar(position) > 2 & !(position %in% c("team", "split", "coach", "manager", "mascot", "stadium")), 'multiple', position)) %>% 
+  select(position, app_pos) %>% 
+  ggplot(aes(x = fct_infreq(app_pos))) +
+  geom_bar(fill = 'turquoise4') +
+  scale_y_continuous(expand = c(0, 0, 0, 50)) +
+  labs(x = "player position", title = "Number of Cards by Player Position",
+       subtitle = "Cards with No Position: 6") +
+  my_theme +
+  theme(axis.text.x = element_text(angle = 20, vjust = 0.5),
+        axis.ticks.x = element_line(color = 'black'))
 
 ```
 
 ```{r}
-card_data %>% 
-  filter(position == 'split' & !team == 'Split Card')
+cards %>% 
+  mutate(decade = str_replace(year, '[1-9]$', '0')) %>% 
+  ggplot(aes(x = factor(decade), fill = factor(rookie_card))) +
+  geom_bar() +
+  scale_y_continuous(expand = c(0, 0, 0, 50)) +
+  scale_fill_brewer(palette = 'Accent', labels = c('No', 'Yes')) +
+  labs(x = "decade", title = 'Number of Cards by Decade', fill = "Rookie Card") +
+  my_theme
 ```
+
+```{r}
+cards %>% 
+  mutate(team_app = ifelse(team %in% c("Los Angeles Angels", "Los Angeles Angels of Anaheim", "California Angels"), "Angels (all versions)", team)) %>% 
+  filter(team_app != "Split Card") %>% 
+  ggplot(aes(x = fct_rev(fct_infreq(team_app)))) +
+  geom_bar(fill = 'turquoise4') +
+  scale_y_continuous(expand = c(0, 0, 0, 50)) +
+  # scale_fill_manual(values = c('#1c9099', '#a6bddb'), labels = c("No", "Yes")) +
+  labs(x = "team name", title = "Number of Cards By Team", fill = "Rookie Card") +
+  coord_flip() +
+  my_theme
+```
+
+
+
+# Tables for App
+
+
+```{r}
+cards %>% 
+  summarise(total = sum(count),
+            rc = sum(rookie_card),
+            od = sum(opening_day),
+            asg = sum(asg),
+            chrome = sum(chrome),
+            refractor = sum(refractor),
+            parallel = length(which(parallel != 0)),
+            heritage = sum(heritage),
+            auto = sum(auto),
+            num = length(which(numbered != 0))
+            ) %>% 
+  kbl("html", caption = "Number of Cards by Category",
+      col.names = c("Total", "Rookie Cards", "Opening Day", "All Star Game", "Chrome", "Refractor", "Parallel", "Heritage", "Autograph", "Numbered")) %>% 
+  kable_styling('bordered', full_width = F)
+```
+
+```{r}
+cards %>% 
+  group_by(team) %>% 
+  summarise(total = sum(count),
+            rc = sum(rookie_card),
+            od = sum(opening_day),
+            asg = sum(asg),
+            chrome = sum(chrome),
+            refractor = sum(refractor),
+            heritage = sum(heritage),
+            auto = sum(auto),
+            num = length(which(numbered != 0))
+            ) %>% 
+  kbl(caption = "Number of Cards by Team",
+      col.names = c("Team", "Total", "Rookie Cards", "Opening Day", "All Star Game", "Chrome", "Refractor", "Heritage", "Autograph", "Numbered")) %>%
+  kable_styling(c('bordered', 'condensed', 'striped'), full_width = F)
+```
+
+```{r}
+cards %>% 
+  group_by(brand) %>% 
+  summarise(total = sum(count),
+            rc = sum(rookie_card),
+            od = sum(opening_day),
+            asg = sum(asg),
+            chrome = sum(chrome),
+            refractor = sum(refractor),
+            heritage = sum(heritage),
+            auto = sum(auto),
+            num = length(which(numbered != 0))
+            ) %>% 
+  kbl(caption = "Number of Cards by Brand",
+      col.names = c("Card Brand", "Total", "Rookie Cards", "Opening Day", "All Star Game", "Chrome", "Refractor", "Heritage", "Autograph", "Numbered")) %>%
+  kable_styling(c('bordered', 'condensed', 'striped'), full_width = F)
+```
+
+
+# Finding Cards for the Card Showcase
+
+
+```{r}
+cool_cards <- cards %>% 
+  # choose certain rookie cards
+  filter(
+    (name %in% c("Brandon Belt", "Freddie Freeman", "Jacob deGrom", "Spencer Strider", "Michael Harris II", "Taijuan Walker", "Jesus Luzardo", "D.P. May", "Jazz Chisholm Jr.", "Chris Sale", "Jose Abreu", "Masahiro Tanaka", "Steven Matz", "Noah Syndergaard", "Amed Rosario", "Travis d'Arnaud", "Andres Gimenez", "Spencer Turnbull", "Justin Verlander", "Ke'Bryan Hayes", "Aroldis Chapman", "Johnny Cueto", "Ian Desmond", "Joe Ryan", "Mookie Betts", "Xander Bogaerts", "Nick Castellanos") & rookie_card == 1 & !str_starts(card_number, "DET")) |
+      (name %in% c("Gary Sheffield") & str_starts(card_number, "WSH")) |
+      (name %in% c("Chipper Jones", "Manny Machado", "Fernando Tatis Jr.", "Aaron Judge", "Javier Baez", "Carlos Correa", "George Brett", "Wade Boggs") & imitation == "1987") |
+      (name %in% c("Miguel Cabrera", "Ozzie Albies", "Nolan Arenado", "Max Scherzer", "Joey Votto", "Trevor Story") & imitation == "1988") | 
+      (name %in% c("Shohei Ohtani", "Jared Walsh", "Freddie Freeman", "Dansby Swanson", "Ronald Acuna Jr.", "Nick Castellanos", "Justin Morneau", "Kris Bryant", "Vladimir Guerrero", "Fernando Tatis Jr.", "Tony Gwynn", "Dylan Cease", "Albert Pujols", "Masahiro Tanaka", "Giancarlo Stanton", "Yogi Berra", "Jacob deGrom", "Jose Altuve", "Zack Greinke", "Max Scherzer", "Joe Mauer", "Cal Ripken Jr.", "Dylan Bundy", "Dustin Pedroia", "J.D. Martinez", "David Ortiz") & chrome == 1) |
+      (name %in% c("Max Fried", "JT Brubaker", "Hunter Greene", "Alex Kirilloff", "Teoscar Hernandez", "Lourdes Gurriel Jr.") & heritage == 1) |
+      (name %in% c("John Smoltz", "Bobby Witt")) |
+      (name %in% c("Ian Anderson", "Grant Green", "David DeJesus", "Clayton Kershaw", "Noah Syndergaard", "Daniel Hudson", "Tommy Pham", "Jake Burger", "Avisail Garcia", "Kelly Johnson", "Jeurys Familia", "Jacob deGrom", "Max Scherzer", "Miguel Cabrera", "Gregory Soto", "Chris Heisey", "Josh Willingham", "Manny Machado", "Mike Moustakas", "Wade Davis", "Lorenzo Cain", "Jake Peavy", "Clay Buchholz", "Randal Grichuk") & parallel != 0) |
+      # specific lookups
+      (name == "Wander Franco" & card_number %in% c("87BR-WF", '215')) |
+      (name == "Albert Pujols" & card_number == "625") |
+      (name == "Ryan McMahon" & card_number == "77") |
+      (name == "Coco Crisp" & opening_day == 1) |
+      (name == "Ichiro" & allen_ginter == 1) |
+      (name == "Chris Bassit" & heritage == 1) |
+      (name == "Albert Pujols" & card_number == "100" & special == 1) |
+      (name == "Kolten Wong" & opening_day == 1) |
+      (name == "Mariano Rivera" & card_number == 321) |
+      (name == "Mickey Mantle" & card_number == 7 & year == "2011") |
+      (name == "Babe Ruth" & card_number %in% c(259, 120)) |
+      (name == "Ron Gardenhire") |
+      (name == "Jack Morris" & card_number == 778) |
+      (name == "Max Scherzer" & card_number == 63) |
+      (name == "Jack Morris" & allen_ginter == 1) |
+      (name == "Riley Greene" & card_number == 31) |
+      (name == "Alan Trammell" & card_number == 118) |
+      (name == "Pete Rose" & card_number == 505) |
+      (name == "Nolan Ryan" & card_number %in% c(4, 250)) |
+      (name == "Roberto Clemente") |
+      (name == "Spencer Torkelson" & card_number == "USC100") |
+      (name == "Cal Ripken Jr." & card_number == 347) |
+      (name == "Adley Rutschman" & card_number == "SMLB-22") |
+      (name == "David Ortiz" & allen_ginter == 1) |
+      (name == "Alex Guerrero" & refractor == 1) |
+      (card_number %in% c("ODS-19", "CHR-CJW", "TLP-JR", "DGC-71", "U-95", "CH-7", "CCR-GS", "TM-96", "TM-DW", "ODS-2", "PM-CM", "IC-VE", "BO-11", "ODS-10", "HH-13", "TM-11", "ODS-11")) |
+      # All Aces cards
+      (str_starts(card_number, "AA")) |
+      # all autographed cards
+      (auto == 1) |
+      # all parallel chrome cards
+      (chrome == 1 & parallel != 0 & !(name %in% c("Yu Darvish", "Mike Piazza")))
+  )
+
+
+cool_cards <- cool_cards[-23,] %>% 
+  full_join(cards %>% filter(numbered != 0 & name != "Matt Davidson")) %>% 
+  add_row(cards %>% filter(numbered != 0 & name == "Matt Davidson")) %>% 
+  add_row(cards %>% filter(chrome == 1 & parallel != 0 & name %in% c("Yu Darvish", "Mike Piazza"))) %>% 
+  add_row(cards %>% filter(chrome == 1 & name == "Don Mattingly")) %>% 
+  add_row(cards %>% filter(name == "Xander Bogaerts" & notes == "Short Print")) %>% 
+  add_row(cards %>% filter(name == "Wade Boggs" & refractor == 1)) %>% 
+  add_row(cards %>% filter(name == "Edgar Martinez" & allen_ginter == 1)) %>% 
+  mutate(id = row_number(), .before = "name") %>% 
+  arrange(id)
+
+write_csv(cool_cards, here::here("app/cool_cards.csv"))
+```
+
+```{r}
+read_csv("app/cool_cards.csv") %>% 
+  select(-id) %>% 
+  mutate(image_front = paste(tolower(substr(name, 1, 4)) %>% str_remove_all(" "),
+                             year,
+                             substr(brand, 1, 3) %>% str_remove_all(" "),
+                             str_remove(card_number, "-") %>% tolower(),
+                             "f.png",
+                             sep = "_"),
+         image_rear = paste(tolower(substr(name, 1, 4)) %>% str_remove_all(" "),
+                             year,
+                             substr(brand, 1, 3) %>% str_remove_all(" "),
+                             str_remove(card_number, "-") %>% tolower(),
+                             "r.png",
+                             sep = "_")) %>% 
+  write_csv("app/cool_cards.csv")
+
+cools <- read_csv("app/cool_cards.csv")
+```
+
+
+```{r}
+test <- read_csv("card_data/arizona_diamondbacks.csv") %>% 
+  mutate(numbered = as.character(numbered)) %>% 
+  left_join(cools) %>% 
+  select(name:imitation, showcase, notes, image_front, image_rear)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
