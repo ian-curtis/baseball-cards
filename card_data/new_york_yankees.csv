@@ -91,9 +91,9 @@ Jacoby Ellsbury,New York Yankees,2014,2013,OF,topps,650,0,0,0,0,2,0,0,0,0,0,0,0,
 Ivan Nova,New York Yankees,2014,2013,P,topps,479,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Michael Pineda,New York Yankees,2014,2013,P,topps,553,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Carlos Beltran,New York Yankees,2014,2013,OF,topps,593,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Rickey Henderson,New York Yankees,1989,1988,OF,fleer,254,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Rickey Henderson,New York Yankees,1988,1987,OF,fleer,209,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Rickey Henderson,New York Yankees,1988,1987,OF,topps,60,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Rickey Henderson,New York Yankees,1989,1988,OF,fleer,254,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Rickey Henderson,New York Yankees,1988,1987,OF,fleer,209,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Rickey Henderson,New York Yankees,1988,1987,OF,topps,60,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Team Card,New York Yankees,2020,2019,team,topps,83,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ron Guidry,New York Yankees,1985,1985,P,donruss,103,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Adam Ottavino,New York Yankees,2018,2017,P,topps,268,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
@@ -101,7 +101,7 @@ Tim Leary,New York Yankees,1990,1989,P,leaf,148,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Jay Howell,New York Yankees,1984,1984,P,donruss,244,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leaf variant
 Dan Pasqua,New York Yankees,1986,1986,OF,sportflics,143,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bobby Murcer,New York Yankees,1982,1981,OF,donruss,486,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Willie Randolph,New York Yankees,1982,1981,2B,donruss,461,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Willie Randolph,New York Yankees,1982,1981,2B,donruss,461,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Didi Gregorius,New York Yankees,2017,2016,SS,topps,482,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ron Davis,New York Yankees,1982,1981,P,donruss,451,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Oscar Gamble,New York Yankees,1982,1981,OF,donruss,360,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -117,7 +117,7 @@ Dave Righetti,New York Yankees,1984,1984,P,donruss,219,0,0,0,0,3,0,0,0,0,0,0,0,0
 Aaron Hicks,New York Yankees,2019,2018,OF,topps,260,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Wade Boggs,New York Yankees,1993,1993,3B,donruss,36,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Special Edition (Gold Panels)
 Mike Pagliarulo,New York Yankees,1984,1984,3B,donruss,539,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Aroldis Chapman,New York Yankees,2020,2019,P,topps,161,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Aroldis Chapman,New York Yankees,2020,2019,P,topps,161,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Dennis Rasmussen,New York Yankees,1984,1984,P,donruss,48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leaf variant
 Rick Cerone,New York Yankees,1985,1984,C,topps,429,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Dennis Rasmussen,New York Yankees,1985,1984,P,topps,691,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -177,7 +177,7 @@ Aaron Judge,New York Yankees,2022,2021,OF,topps,99,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Luis Gil,New York Yankees,2022,2021,P,topps,131,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Andrew Heaney,New York Yankees,2022,2021,P,topps,287,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Gerrit Cole,New York Yankees,2022,2021,P,topps,35,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Walk-Off Water,New York Yankees,2022,2021,none,topps,119,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yankees Celebrate Key Walk-Off (Checklist)
+Walk-Off Water,New York Yankees,2022,2021,split,topps,119,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yankees Celebrate Key Walk-Off (Checklist)
 Don Mattingly,New York Yankees,2020,none,1B,donruss,216,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Unofficial Brand
 Babe Ruth,New York Yankees,2011,1935,OF,topps,259,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jameson Taillon,New York Yankees,2021,2020,P,topps,US132,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -187,7 +187,7 @@ Nick Nelson,New York Yankees,2021,2020,P,topps,107,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
 Jim Abbott,New York Yankees,2021,2020,P,topps,699,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Ron Guidry,New York Yankees,2021,2020,P,topps,553,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Jorge Posada,New York Yankees,2021,2020,C,topps,683,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
-Don Mattingly,New York Yankees,2021,2020,1B,topps,696,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Don Mattingly,New York Yankees,2021,2020,1B,topps,696,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Giancarlo Stanton,New York Yankees,2021,2020,"OF, DH",topps,193,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Clint Frazier,New York Yankees,2021,2020,OF,topps,296,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Albert Abreu,New York Yankees,2021,2020,P,topps,60,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
@@ -214,3 +214,13 @@ Nestor Cortes,New York Yankees,2023,2022,P,topps,143,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Oswald Peraza,New York Yankees,2023,2022,SS,topps,94,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Gerrit Cole,New York Yankees,2023,2022,P,topps,45,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Gerrit Cole,New York Yankees,2023,2022,P,topps,SMLB-30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB (position printed as OF on front)
+Oswaldo Cabrera,New York Yankees,2023,2022,"2B, SS",topps,487,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Luis Severino,New York Yankees,2023,2022,P,topps,349,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Giancarlo Stanton,New York Yankees,2023,2022,"OF, DH",topps,509,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Jose Trevino,New York Yankees,2023,2022,C,topps,373,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Team Card,New York Yankees,2023,2022,team,topps,516,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Anthony Rizzo,New York Yankees,2023,2022,1B,topps,596,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Giancarlo Stanton,New York Yankees,2023,2022,OF,topps,SMLB-51,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
+Rafael Ortega,New York Yankees,2023,2022,OF,topps,607,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kyle Higashioka,New York Yankees,2023,2022,C,topps,646,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+DJ LeMahieu,New York Yankees,2023,2022,"2B, 3B",topps,658,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

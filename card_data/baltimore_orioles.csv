@@ -38,7 +38,7 @@ Chris Davis,Baltimore Orioles,2014,2013,1B,topps,525,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Nelson Cruz,Baltimore Orioles,2014,2013,OF,topps,453,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 J.J. Hardy,Baltimore Orioles,2014,2013,SS,topps,377,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Miguel Gonzalez,Baltimore Orioles,2014,2013,P,topps,434,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Brian Matusz,Baltimore Orioles,2014,2013,p,topps,547,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Brian Matusz,Baltimore Orioles,2014,2013,P,topps,547,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Adam Jones,Baltimore Orioles,2014,2013,OF,topps,398,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Manny Machado,Baltimore Orioles,2014,2014,3B,topps,SST-19,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,saberstars (Ultimate Zone Rating: 31.2)
 Jeremy Guthrie,Baltimore Orioles,2009,2008,P,upper deck,27,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,First Edition (Gold Border)
@@ -72,22 +72,22 @@ Renato Nunez,Baltimore Orioles,2019,2018,"DH, 1B",topps,US300,1,0,0,0,3,0,0,0,0,
 Mike Boddicker,Baltimore Orioles,1984,1983,P,donruss,109,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Mark Trumbo,Baltimore Orioles,2019,2018,DH,topps,131,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Richard Bleier,Baltimore Orioles,2019,2018,P,topps,207,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Cal Ripken Jr.,Baltimore Orioles,1990,1989,SS,upper deck,347,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Cal Ripken Jr.,Baltimore Orioles,1991,1990,SS,upper deck,645,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Major League Diamond Skills (Best Defensive Player)
+Cal Ripken Jr.,Baltimore Orioles,1990,1989,SS,upper deck,347,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Cal Ripken Jr.,Baltimore Orioles,1991,1990,SS,upper deck,645,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Major League Diamond Skills (Best Defensive Player)
 Pete Stanicek,Baltimore Orioles,1989,1988,OF,upper deck,592,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bill Ripken,Baltimore Orioles,1989,1988,2B,fleer,616,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tim Beckham,Baltimore Orioles,2018,2017,SS,topps,159,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Sammy Stewart,Baltimore Orioles,1985,1984,P,donruss,98,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tippy Martinez,Baltimore Orioles,1985,1984,P,topps,445,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Joe Nolan,Baltimore Orioles,1985,1984,C,topps,652,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Cal Ripken Jr.,Baltimore Orioles,1991,1990,SS,upper deck,165,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Cal Ripken Jr.,Baltimore Orioles,1991,1990,SS,upper deck,165,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Cal Ripken Jr.,Baltimore Orioles,1991,1990,SS,upper deck,85F,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Toronto '91 All-Star Game
 Jonathan Schoop,Baltimore Orioles,2017,2016,2B,topps,US292,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Mike Young,Baltimore Orioles,1985,1984,OF,donruss,367,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Gary Roenicke,Baltimore Orioles,1985,1984,OF,donruss,123,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Al Bumbry,Baltimore Orioles,1985,1984,OF,donruss,350,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Sammy Stewart,Baltimore Orioles,1985,1984,P,donruss,98,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Cal Ripken Jr.,Baltimore Orioles,2021,2020,SS,topps,HH-13,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Historical Hits (July 10th, 2001)"
+Cal Ripken Jr.,Baltimore Orioles,2021,2020,SS,topps,HH-13,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"Historical Hits (July 10th, 2001)"
 Bill Ripken,Baltimore Orioles,1992,1991,2B,topps,533,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
 Eric Bell,Baltimore Orioles,1988,1987,P,topps,383,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Phil Bradley,Baltimore Orioles,1990,1989,OF,topps,163,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -142,7 +142,7 @@ Bruce Zimmermann,Baltimore Orioles,2022,2021,P,topps,157,0,0,0,0,1,0,0,0,0,0,0,0
 Pedro Severino,Baltimore Orioles,2022,2021,C,topps,72,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Keegan Akin,Baltimore Orioles,2022,2021,P,topps,328,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Trey Mancini,Baltimore Orioles,2022,2021,"1B, DH",topps,79,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Dylan Bundy,Baltimore Orioles,2019,2018,P,topps,5,0,0,0,0,1,1,0,0,1,0,0,0,negative,0,0,0,0,0,0,0,
+Dylan Bundy,Baltimore Orioles,2019,2018,P,topps,5,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,
 Jorge Lopez,Baltimore Orioles,2022,2021,P,topps,552,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ryan Mountcastle,Baltimore Orioles,2022,2021,1B,topps,NTCD-4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,National Trading Card Day
 Brooks Robinson,Baltimore Orioles,2021,2020,3B,topps,522,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
@@ -167,3 +167,8 @@ Jorge Mateo,Baltimore Orioles,2023,2022,SS,topps,38,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Kyle Stowers,Baltimore Orioles,2023,2022,OF,topps,156,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Cedric Mullins,Baltimore Orioles,2023,2022,OF,topps,317,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tyler Wells,Baltimore Orioles,2023,2022,P,topps,151,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Keegan Akin,Baltimore Orioles,2023,2022,P,topps,617,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+DL Hall,Baltimore Orioles,2023,2022,P,topps,547,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Gunnar Henderson,Baltimore Orioles,2023,2022,"3B, SS",topps,SMLBC-37,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB (position printed as OF on front)
+Adley Rutschman,Baltimore Orioles,2023,2022,C,topps,FS-19,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Favorite Son
+Ramon Urias,Baltimore Orioles,2023,2022,3B,topps,632,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

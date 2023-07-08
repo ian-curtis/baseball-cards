@@ -57,7 +57,7 @@ Jason Heyward,Atlanta Braves,2014,2013,OF,topps,212,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Julio Teheran,Atlanta Braves,2014,2013,P,topps,288,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
 Mike Minor,Atlanta Braves,2014,2013,P,topps,316,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Freddie Freeman,Atlanta Braves,2014,2013,1B,topps,US264,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Ryan Doumit,Atlanta Braves,2014,2013,C,topps,US-108,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gold Border
+Ryan Doumit,Atlanta Braves,2014,2013,C,topps,US-108,0,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,0122/2014,0,
 Tyler Pastornicky,Atlanta Braves,2014,2013,2B,topps,US-159,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tom Glavine,Atlanta Braves,2014,2013,P,topps,WSC-9,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,World Series Heroes (1995)
 Pete Smith,Atlanta Braves,1990,1989,P,leaf,144,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -141,7 +141,7 @@ Eddie Rosario,Atlanta Braves,2022,2021,OF,topps,153,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Drew Smyly,Atlanta Braves,2022,2021,P,topps,195,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Huascar Ynoa,Atlanta Braves,2022,2021,P,topps,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Luke Jackson,Atlanta Braves,2021,2020,P,topps,US146,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Picture Time,Atlanta Braves,2021,2020,none,topps,372,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"A Win Is Worth 1,000 Words (Checklist)"
+Picture Time,Atlanta Braves,2021,2020,split,topps,372,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"A Win Is Worth 1,000 Words (Checklist)"
 Sean Newcomb,Atlanta Braves,2020,2019,P,topps,635,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Cristian Pache,Atlanta Braves,2021,2020,OF,bowman,36,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Luke Waddell,Atlanta Braves,2022,2021,SS,bowman,BP-48,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
@@ -171,3 +171,7 @@ Ian Anderson,Atlanta Braves,2023,2022,P,topps,114,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
 A.J. Minter,Atlanta Braves,2023,2022,P,topps,159,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 William Contreras,Atlanta Braves,2023,2022,"C, DH",topps,68,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ronald Acuna Jr.,Atlanta Braves,2023,2022,OF,topps,SMLB-3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
+Austin Riley,Atlanta Braves,2023,2022,3B,topps,660,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Matt Olson,Atlanta Braves,2023,2022,1B,topps,481,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Michael Harris II,Atlanta Braves,2023,2022,OF,topps,SMLB-35,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
+Travis d'Arnaud,Atlanta Braves,2023,2022,C,topps,483,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

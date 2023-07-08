@@ -52,13 +52,13 @@ Eric Stults,San Diego Padres,2014,2013,P,topps,234,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Yonder Alonso,San Diego Padres,2014,2013,1B,topps,129,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tony Gwynn,San Diego Padres,1988,1988,OF,donruss,128,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tony Gwynn,San Diego Padres,1990,1989,OF,topps,730,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Tony Gwynn,San Diego Padres,1990,1989,OF,fleer,157,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tony Gwynn,San Diego Padres,1990,1989,OF,fleer,157,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tony Gwynn,San Diego Padres,1990,1989,OF,topps,403,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Tony Gwynn,San Diego Padres,1990,1989,OF,upper deck,344,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Tony Gwynn,San Diego Padres,1991,1990,OF,leaf,290,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tony Gwynn,San Diego Padres,1990,1989,OF,upper deck,344,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tony Gwynn,San Diego Padres,1991,1990,OF,leaf,290,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tony Gwynn,San Diego Padres,1991,1990,OF,leaf,11,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1991 Preview Card
 Tony Gwynn,San Diego Padres,1990,1989,OF,bowman,217,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Gary Lucas,San Diego Padres,1982,1981,P,donruss,296,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Gary Lucas,San Diego Padres,1982,1981,P,donruss,296,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Dave Edwards,San Diego Padres,1982,1981,OF,donruss,247,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bruce Hurst,San Diego Padres,1989,1988,P,upper deck,792,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Matt Strahm,San Diego Padres,2020,2019,P,topps,164,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -71,7 +71,7 @@ Gary Templeton,San Diego Padres,1987,1987,SS,donruss,649,0,0,0,0,1,0,0,0,0,0,0,0
 Chris Brown,San Diego Padres,1987,1987,3B,donruss,483,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jimmy Jones,San Diego Padres,1987,1987,P,donruss,141,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Shawn Abner,San Diego Padres,1987,1987,OF,donruss,33,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rated Rookie
-Tommy Pham,San Diego Padres,2020,2019,OF,topps,74,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"March 26, 2020 (Shiny card)"
+Tommy Pham,San Diego Padres,2020,2019,OF,topps,74,0,0,1,0,1,1,0,0,0,0,0,blue,1,0,0,0,0,0,0,0,"March 26, 2020 (Shiny card)"
 Frank Seminara,San Diego Padres,1993,1992,P,topps,247,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Fred Lynn,San Diego Padres,1991,1990,OF,score,554,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Paul Faries,San Diego Padres,1991,1990,"1B, 2B, 3B, SS",score,771,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rookie Prospect
@@ -94,7 +94,7 @@ Dave Edwards,San Diego Padres,1982,1981,OF,donruss,247,0,0,0,0,2,0,0,0,0,0,0,0,0
 Bobby Brown,San Diego Padres,1984,1984,OF,donruss,383,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leaf variant
 Graig Nettles,San Diego Padres,1984,1984,3B,donruss,177,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leaf variant
 Dave Staton,San Diego Padres,1994,1993,1B,upper deck,214,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Electric Diamond
-Ruppert Jones,San Diego Padres,1983,1982,OF,topps,695,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Ruppert Jones,San Diego Padres,1983,1982,OF,topps,695,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tim Lollar,San Diego Padres,1982,1981,P,topps,587,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Alan Wiggins,San Diego Padres,1984,1984,2B,donruss,68,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Joey Hamilton,San Diego Padres,1995,1994,P,upper deck,346,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -104,7 +104,7 @@ Barry Evans,San Diego Padres,1982,1981,3B,topps,541,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Benito Santiago,San Diego Padres,1989,1988,C,upper deck,165,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Eric Show,San Diego Padres,1984,1984,P,donruss,137,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Leaf variant
 Ian Kinsler,San Diego Padres,2019,2018,2B,topps,US22,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Kirby Yates,San Diego Padres,2020,2019,P,topps,25,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kirby Yates,San Diego Padres,2020,2019,P,topps,25,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Craig Lefferts,San Diego Padres,1984,1984,P,donruss,261,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tim Flannery,San Diego Padres,1984,1984,"1B, 2B, 3B, SS",donruss,551,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Garry Templeton,San Diego Padres,1984,1984,SS,donruss,356,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -128,7 +128,7 @@ Yu Darvish,San Diego Padres,2022,2021,P,topps,309,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
 Fernando Tatis Jr.,San Diego Padres,2022,2021,SS,topps,T87-9,0,0,0,0,1,1,0,0,0,0,0,blue,0,0,0,0,0,0,0,1987,
 Fernando Tatis Jr.,San Diego Padres,2022,2021,SS,topps,100,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ha-Seong Kim,San Diego Padres,2022,2021,SS,topps,188,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Slam Diego Returns,San Diego Padres,2022,2021,none,topps,125,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tatis Continues to Lead Padres Slams
+Slam Diego Returns,San Diego Padres,2022,2021,split,topps,125,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tatis Continues to Lead Padres Slams
 Manny Machado,San Diego Padres,2022,2021,3B,topps,T87-55,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1987,
 Joe Musgrove,San Diego Padres,2022,2021,P,topps,266,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Eric Hosmer,San Diego Padres,2022,2021,1B,topps,272,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -146,7 +146,7 @@ Fernando Tatis Jr.,San Diego Padres,2021,2020,SS,topps,141,0,0,0,0,1,1,0,0,1,0,0
 Wil Myers,San Diego Padres,2022,2021,OF,topps,503,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Chris Paddack,San Diego Padres,2022,2021,P,topps,593,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jack Cronenworth,San Diego Padres,2022,2021,"1B, 2B",topps,511,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-Yu Darvish,San Diego Padres,2022,2021,P,topps,T87C2-77,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1987,
+Yu Darvish,San Diego Padres,2022,2021,P,topps,T87C2-77,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,
 Blake Snell,San Diego Padres,2022,2021,P,topps,414,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Trent Grisham,San Diego Padres,2022,2021,OF,topps,440,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Victor Caratini,San Diego Padres,2022,2021,C,topps,385,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -159,3 +159,5 @@ Jorge Alfaro,San Diego Padres,2023,2022,C,topps,46,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
 Ryan Weathers,San Diego Padres,2023,2022,P,topps,70,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Juan Soto,San Diego Padres,2023,2022,OF,topps,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Fernando Tatis Jr.,San Diego Padres,2023,2022,OF,topps,SMLB-15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
+Manny Machado,San Diego Padres,2023,2022,3B,topps,SMLB-55,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB (position marked as OF on front)
+Joe Musgrove,San Diego Padres,2023,2022,P,topps,496,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

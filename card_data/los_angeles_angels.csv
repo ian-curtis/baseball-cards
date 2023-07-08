@@ -4,13 +4,13 @@ Trevor Cahill,Los Angeles Angels,2019,2018,P,topps,US234,0,0,0,0,2,0,0,0,0,0,0,0
 Cam Bedrosian,Los Angeles Angels,2017,2016,P,topps,653,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jo Adell,Los Angeles Angels,2021,2020,OF,topps,188,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Puzzle C
 Eric Young Jr.,Los Angeles Angels,2017,2016,OF,topps,US265,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Kole Calhoun,Los Angeles Angels,2020,2019,OF,topps,171,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kole Calhoun,Los Angeles Angels,2020,2019,OF,topps,171,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Tommy La Stella,Los Angeles Angels,2020,2019,"2B, 3B",topps,151,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jonathan Lucroy,Los Angeles Angels,2019,2018,C,topps,US250,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Andrelton Simmons,Los Angeles Angels,2019,2018,SS,topps,255,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Andrew Heaney,Los Angeles Angels,2019,2018,P,topps,257,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Zack Cozart,Los Angeles Angels,2018,2017,SS,topps,149,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cardboard Card
-Cody Allen,Los Angeles Angels,2019,20218,P,topps,215,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
+Cody Allen,Los Angeles Angels,2019,2018,P,topps,215,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
 Tommy La Stella,Los Angeles Angels,2019,2018,"2B, 3B",topps,US29,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Johnny Giavotella,Los Angeles Angels,2017,2016,2B,topps,215,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Kole Calhoun,Los Angeles Angels,2017,2016,OF,topps,294,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -34,7 +34,7 @@ Elvis Peguero,Los Angeles Angels,2022,2021,P,topps,541,1,1,0,0,1,0,0,0,0,0,0,0,0
 Shohei Ohtani,Los Angeles Angels,2022,2021,"P, DH",topps,GP-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,International Trading Card Day
 Anthony Rendon,Los Angeles Angels,2021,2020,3B,topps,168,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Jose Quintana,Los Angeles Angels,2021,2020,P,topps,485,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
-Jared Walsh,Los Angeles Angels,2021,2020,1B,topps,258,0,0,0,0,1,1,0,0,1,0,0,cyan,0,0,0,0,0,0,0,0,
+Jared Walsh,Los Angeles Angels,2021,2020,1B,topps,258,0,0,0,0,1,1,0,0,1,0,0,cyan,1,0,0,0,0,0,0,0,
 Packy Naughton,Los Angeles Angels,2022,2021,P,topps,540,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Justin Upton,Los Angeles Angels,2022,2021,OF,topps,444,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Oliver Ortega,Los Angeles Angels,2022,2021,P,topps,554,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -56,3 +56,9 @@ Shohei Ohtani,Los Angeles Angels,2023,2022,"P, DH",topps,SMLB-21,0,0,0,0,1,1,0,0
 Shohei Ohtani,Los Angeles Angels,2023,2022,"P, DH",topps,SMLBC-21,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
 Patrick Sandoval,Los Angeles Angels,2023,2022,P,topps,327,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Taylor Ward,Los Angeles Angels,2023,2022,OF,topps,103,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Shohei Ohtani,Los Angeles Angels,2023,2022,DH,topps,600,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Jared Walsh,Los Angeles Angels,2023,2022,1B,topps,439,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Logan O'Hoppe,Los Angeles Angels,2023,2022,C,topps,363,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Luis Rengifo,Los Angeles Angels,2023,2022,2B,topps,549,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Jose Suarez,Los Angeles Angels,2023,2022,P,topps,609,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Livan Soto,Los Angeles Angels,2023,2022,SS,topps,371,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

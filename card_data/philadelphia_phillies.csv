@@ -90,7 +90,7 @@ Dave Hollins,Philadelphia Phillies,1992,1991,3B,donruss,68,0,0,0,0,1,0,0,0,0,0,0
 Tim Mauser,Philadelphia Phillies,1991,1990,P,topps,558,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Darrel Akerfelds,Philadelphia Phillies,1990,1989,P,upper deck,619,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Len Dykstra,Philadelphia Phillies,1990,1989,OF,upper deck,472,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Larry Christenson,Philadelphia Phillies,1993,1992,P,topps,668,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Larry Christenson,Philadelphia Phillies,1993,1992,P,topps,668,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Charlie Hayes,Philadelphia Phillies,1990,1989,3B,leaf,131,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bruce Ruffin,Philadelphia Phillies,1990,1989,P,leaf,151,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Lenny Dykstra,Philadelphia Phillies,1994,1993,OF,upper deck,170,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Collector's Choice, Special Edition"
@@ -144,7 +144,7 @@ Didi Gregorius,Philadelphia Phillies,2022,2021,SS,topps,44,1,0,0,0,2,0,0,0,0,0,0
 Zach Eflin,Philadelphia Phillies,2022,2021,P,topps,179,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bryce Harper,Philadelphia Phillies,2022,2021,OF,topps,250,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jean Segura,Philadelphia Phillies,2022,2021,2B,topps,178,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-City of Walk-Off Love,Philadelphia Phillies,2022,2021,none,topps,321,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Harper Scores Walk-Off Run (Checklist)
+City of Walk-Off Love,Philadelphia Phillies,2022,2021,split,topps,321,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Harper Scores Walk-Off Run (Checklist)
 J.T. Realmuto,Philadelphia Phillies,2022,2021,C,topps,180,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bryce Harper,Philadelphia Phillies,2022,2021,OF,topps,FF-2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flashiest Feet
 Luke Williams,Philadelphia Phillies,2022,2021,"3B, OF",topps,62,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -167,7 +167,7 @@ Bryce Harper,Philadelphia Phillies,2022,2021,OF,topps,SS-14,0,0,0,0,1,1,0,0,0,0,
 Team Card,Philadelphia Phillies,2022,2021,team,topps,501,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Aaron Nola,Philadelphia Phillies,2022,2021,P,topps,337,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Alec Bohm,Philadelphia Phillies,2022,2021,3B,topps,452,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
-Aaron Nola,Philadelphia Phillies,2022,2021,P,topps,T87C2-23,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1987,
+Aaron Nola,Philadelphia Phillies,2022,2021,P,topps,T87C2-23,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,
 Brad Hand,Philadelphia Phillies,2022,2021,P,topps,US14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bryson Scott,Philadelphia Phillies,2022,2022,SS,topps,USC128,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Rookie Debut: 4/8/2022
 Nick Castellanos,Philadelphia Phillies,2022,2021,OF,topps,USC67,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
@@ -178,8 +178,11 @@ J.T. Realmuto,Philadelphia Phillies,2023,2022,C,topps,293,0,0,0,0,1,0,0,0,0,0,0,
 Bryce Harper,Philadelphia Phillies,2023,2022,OF,topps,SMLB-14,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
 Darick Hall,Philadelphia Phillies,2023,2022,"1B, DH",topps,209,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bryce Harper,Philadelphia Phillies,2023,2022,OF,topps,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Aaron Nola,Philadelphia Phillies,2023,2022,P,topps,AA-16,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All Aces (looks like a playing card)
+Aaron Nola,Philadelphia Phillies,2023,2022,P,topps,AA-16,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All Aces
 Bryson Scott,Philadelphia Phillies,2023,2022,SS,topps,295,0,0,0,0,1,1,0,1,0,0,0,blue,0,0,0,0,0,0,0,0,
-Noah Synderhaard,Philadelphia Phillies,2023,2022,P,topps,145,0,0,0,0,1,1,0,0,0,0,0,navy,0,0,0,0,0,0,0,0,
+Noah Syndergaard,Philadelphia Phillies,2023,2022,P,topps,145,0,0,0,0,1,1,0,0,0,0,0,navy,0,0,0,0,0,0,0,0,
 Alec Bohm,Philadelphia Phillies,2023,2022,3B,topps,128,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Corey Kenebl,Philadelphia Phillies,2023,2022,P,topps,28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Dalton Guthrie,Philadelphia Phillies,2023,2022,3B,topps,398,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Craig Kimbrel,Philadelphia Phillies,2023,2022,P,topps,589,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nick Castellanos,Philadelphia Phillies,2023,2022,OF,topps,527,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -21,7 +21,7 @@ Paul Goldschmidt,Arizona Diamondbacks,2014,2013,1B,topps,US 215,0,0,0,1,1,0,0,0,
 Chase Anderson,Arizona Diamondbacks,2014,2013,P,topps,MB-29,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Joe Saunders,Arizona Diamondbacks,2011,2010,P,topps,453,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ian Kennedy,Arizona Diamondbacks,2011,2010,P,topps,39,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Daniel Hudson,Arizona Diamondbacks,2013,2012,P,topps,41,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Shiny, Emerald green"
+Daniel Hudson,Arizona Diamondbacks,2013,2012,P,topps,41,0,0,0,0,1,1,0,0,0,0,0,green,1,0,0,0,0,0,0,0,"Shiny, Emerald green"
 Joe Patterson,Arizona Diamondbacks,2011,2010,P,topps,604,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 J.J. Putz,Arizona Diamondbacks,2011,2010,P,topps,601,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Daniel Hudson,Arizona Diamondbacks,2011,2010,P,topps,176,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -50,7 +50,7 @@ Chris Owings,Arizona Diamondbacks,2014,2013,SS,topps,232,0,1,0,0,1,0,0,0,0,0,0,0
 Aaron Hill,Arizona Diamondbacks,2014,2013,2B,topps,292,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Cliff Pennington,Arizona Diamondbacks,2014,2013,SS,topps,203,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Trevor Cahill,Arizona Diamondbacks,2014,2013,P,topps,35,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Chris Owings,Arizona Diamondbacks,2018,2017,2B/OF,topps,AD-3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Set
+Chris Owings,Arizona Diamondbacks,2018,2017,"2B, OF",topps,AD-3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Set
 Patrick Corbin,Arizona Diamondbacks,2018,2017,P,topps,AD-15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Team Set
 Chris Young,Arizona Diamondbacks,2011,2010,OF,topps,316,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Eric Byrnes,Arizona Diamondbacks,2008,2007,OF,upper deck,406,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -133,3 +133,9 @@ Seth Beer,Arizona Diamondbacks,2022,2021,OF,topps,162,0,1,0,0,1,1,0,0,0,0,0,0,0,
 Josh Rojas,Arizona Diamondbacks,2022,2021,3B,topps,USC172,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Merrill Kelly,Arizona Diamondbacks,2023,2022,P,topps,71,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Seth Beer,Arizona Diamondbacks,2023,2022,"1B, DH",topps,105,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Zac Gallen,Arizona Diamondbacks,2023,2022,P,topps,412,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Drey Jameson,Arizona Diamondbacks,2023,2022,P,topps,502,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Alek Thomas,Arizona Diamondbacks,2023,2022,OF,topps,568,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+Corbin Carrol,Arizona Diamondbacks,2023,2022,OF,topps,SMLB-34,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
+Emmanuel Rivera,Arizona Diamondbacks,2023,2022,3B,topps,431,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Carson Kelly,Arizona Diamondbacks,2023,2022,C,topps,633,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

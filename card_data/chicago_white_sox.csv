@@ -1,7 +1,7 @@
 ﻿name,team,year,season,position,brand,card_number,horizontal,rookie_card,opening_day,asg,count,special,attax,future_stars,chrome,gallery,first_bowman,parallel,refractor,all_star_rookie,stadium_club,heritage,allen_ginter,auto,numbered,imitation,notes
 Team Card,Chicago White Sox,2011,2010,team,topps,161,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Matt Davidson,Chicago White Sox,2014,2013,3B,topps,174,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"March 14, 2013"
-Matt Davidson,Chicago White Sox,2014,2013,3B,topps,174,0,1,1,0,1,1,0,0,0,0,0,blue,0,0,0,0,0,0,0,0,"March 14, 2013"
+Matt Davidson,Chicago White Sox,2014,2013,3B,topps,174,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14-Mar-13
+Matt Davidson,Chicago White Sox,2014,2013,3B,topps,174,0,1,1,0,1,1,0,0,0,0,0,blue,0,0,0,0,0,0,1677/2014,0,14-Mar-13
 Chris Sale,Chicago White Sox,2014,2013,P,topps,151,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Andre Rienzo,Chicago White Sox,2014,2013,P,topps,96,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Juan Pierre,Chicago White Sox,2011,2010,OF,topps,422,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -55,7 +55,8 @@ Avisail Garcia,Chicago White Sox,2014,2013,OF,topps,526,1,0,0,0,1,1,0,0,0,0,0,re
 John Danks,Chicago White Sox,2014,2013,P,topps,395,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Adam Dunn,Chicago White Sox,2014,2013,DH,topps,618,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Simon Castro,Chicago White Sox,2014,2013,P,topps,592,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Jose Abreu,Chicago White Sox,2014,2013,1B,topps,496,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Jose Abreu,Chicago White Sox,2014,2013,1B,topps,496,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Jose Abreu,Chicago White Sox,2014,2013,1B,topps,496,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Short Print
 Gordon Beckham,Chicago White Sox,2014,2013,2B,topps,403,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Adam Eaton,Chicago White Sox,2014,2013,OF,topps,555,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
 Marcus Semien,Chicago White Sox,2014,2013,3B,topps,429,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -72,7 +73,7 @@ Daniel Webb,Chicago White Sox,2014,2013,P,topps,MB-12,0,1,0,0,1,1,0,0,1,0,0,0,0,
 Jose Abreu,Chicago White Sox,2014,2013,1B,topps,US-325,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rookie Debut March 31, 2014"
 Jose Abreu,Chicago White Sox,2014,2013,1B,topps,US-239,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Chris Sale,Chicago White Sox,2014,2013,P,topps,US-277,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Mike Squires,Chicago White Sox,1983,1982,1B,topps,669,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Mike Squires,Chicago White Sox,1983,1982,1B,topps,669,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bo Jackson,Chicago White Sox,1993,1992,OF,upper deck,775,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Scott Fletcher,Chicago White Sox,1990,1989,2B,leaf,141,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ozzie Guillen,Chicago White Sox,1990,1989,SS,leaf,128,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -81,7 +82,7 @@ Dan Spillner,Chicago White Sox,1985,1985,P,donruss,122,0,0,0,0,1,0,0,0,0,0,0,0,0
 Eduardo Escobar,Chicago White Sox,2011,2010,SS,bowman,BPP53,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bowman Platinum
 Yolmer Sanchez,Chicago White Sox,2019,2018,3B,topps,308,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Courtney Hawkins,Chicago White Sox,2015,2014,OF,bowman,8,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
-Bo Jackson,Chicago White Sox,1991,1990,OF,upper deck,744,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Bo Jackson,Chicago White Sox,1991,1990,OF,upper deck,744,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bo Jackson,Chicago White Sox,1991,1991,OF,upper deck,555,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Jermaine Dye,Chicago White Sox,2007,2006,OF,topps,OTG8,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Own The Game
 Jace Fry,Chicago White Sox,2019,2018,P,topps,636,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -101,12 +102,12 @@ LaMarr Hoyt,Chicago White Sox,1985,1983,P,topps,520,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Jerry Hairston,Chicago White Sox,1985,1984,OF,topps,596,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Richard Dotson,Chicago White Sox,1985,1984,P,topps,364,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Floyd Bannister,Chicago White Sox,1984,1984,P,topps,379,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Jack McDowell,Chicago White Sox,1992,1991,P,bowman,605,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gold Border
+Jack McDowell,Chicago White Sox,1992,1991,P,bowman,605,0,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,0,0,
 Scott Sanderson,Chicago White Sox,1995,1994,P,upper deck,498,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Collector's Choice
 Olmedo Saenz,Chicago White Sox,1995,1994,3B,upper deck,497,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Greg Walker,Chicago White Sox,1984,1984,1B,donruss,366,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Rich Dotson,Chicago White Sox,1984,1984,P,donruss,302,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Lucas Giolito,Chicago White Sox,2020,2019,P,topps,175,1,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lucas Giolito,Chicago White Sox,2020,2019,P,topps,175,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Steve Lyons,Chicago White Sox,1989,1988,3B,upper deck,224,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Dallas Keuchel,Chicago White Sox,2021,2020,P,topps,80,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
 Jack McDowell,Chicago White Sox,1987,1987,P,donruss,47,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rated Rookie
@@ -138,7 +139,7 @@ Shawn Abner,Chicago White Sox,1993,1992,OF,topps,582,0,0,0,0,2,0,0,0,0,0,0,0,0,0
 Ron Karkovice,Chicago White Sox,1992,1991,C,topps,153,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Winner
 Shawn Jeter,Chicago White Sox,1993,1992,OF,topps,800,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coming Attraction
 Jake Burger,Chicago White Sox,2022,2021,3B,topps,186,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Jake Burger,Chicago White Sox,2022,2021,3B,topps,186,0,1,0,0,1,1,0,0,0,0,0,silver,0,0,0,0,0,0,0,0,
+Jake Burger,Chicago White Sox,2022,2021,3B,topps,186,0,1,0,0,1,1,0,0,0,0,0,silver,1,0,0,0,0,0,0,0,
 Luis Robert,Chicago White Sox,2022,2021,OF,topps,T87-70,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1987,
 Carlos Rodon,Chicago White Sox,2022,2021,P,topps,282,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Team Card,Chicago White Sox,2022,2021,team,topps,255,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -185,3 +186,6 @@ Gavin Sheets,Chicago White Sox,2023,2022,OF,topps,132,0,0,0,0,1,0,0,0,0,0,0,0,0,
 Luis Robert,Chicago White Sox,2023,2022,OF,topps,SMLB-6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stars of MLB
 Lenyn Sosa,Chicago White Sox,2023,2022,2B,topps,140,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Lucas Giolito,Chicago White Sox,2023,2022,P,topps,142,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Team Card,Chicago White Sox,2023,2022,team,topps,565,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lance Lynn,Chicago White Sox,2023,2022,P,topps,358,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Eloy Jimenez,Chicago White Sox,2023,2022,OF,topps,537,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
