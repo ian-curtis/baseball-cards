@@ -172,7 +172,7 @@ cards %>%
 ```
 
 
-# Finding Cards for the Card Showcase
+# Finding Cards for the Card Showcase OLD WAY
 
 
 ```{r}
@@ -238,31 +238,15 @@ write_csv(cool_cards, here::here("app/cool_cards.csv"))
 ```
 
 ```{r}
-read_csv("app/cool_cards.csv") %>% 
-  select(-id) %>% 
-  mutate(image_front = paste(tolower(substr(name, 1, 4)) %>% str_remove_all(" "),
-                             year,
-                             substr(brand, 1, 3) %>% str_remove_all(" "),
-                             str_remove(card_number, "-") %>% tolower(),
-                             "f.png",
-                             sep = "_"),
-         image_rear = paste(tolower(substr(name, 1, 4)) %>% str_remove_all(" "),
-                             year,
-                             substr(brand, 1, 3) %>% str_remove_all(" "),
-                             str_remove(card_number, "-") %>% tolower(),
-                             "r.png",
-                             sep = "_")) %>% 
-  write_csv("app/cool_cards.csv")
-
-cools <- read_csv("app/cool_cards.csv")
+cards %>% filter() %>% 
+  select(name, team, card_number, notes)
 ```
 
 
 ```{r}
-test <- read_csv("card_data/arizona_diamondbacks.csv") %>% 
-  mutate(numbered = as.character(numbered)) %>% 
-  left_join(cools) %>% 
-  select(name:imitation, showcase, notes, image_front, image_rear)
+
+
+
 ```
 
 
