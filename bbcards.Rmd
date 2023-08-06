@@ -13,10 +13,10 @@ library(janitor)
 
 ```{r read_data, message=FALSE}
 # Loop through team files to get data file paths
-my_files <- list.files(path=("card_data/"), pattern="*.csv", full.names = TRUE)
+my_files <- list.files(path=("app/card_data/"), pattern="*.csv", full.names = TRUE)
 
 # Read in files with the tidyverse, removing rows with all NA, and correcting a typo
-cards <- read_csv(my_files, guess_max = 300)
+cards <- read_csv(my_files, guess_max = 500)
 # 
 # my_theme <-  theme(panel.grid.minor.y = element_blank(),
 #         panel.background = element_rect(fill = 'grey90'),
@@ -238,13 +238,13 @@ write_csv(cool_cards, here::here("app/cool_cards.csv"))
 ```
 
 ```{r}
-cards %>% filter() %>% 
+cards %>% filter(notes %in% c("Short Print", "One is Short Print")) %>% 
   select(name, team, card_number, notes)
 ```
 
 
 ```{r}
-
+cool <- cards %>% filter(showcase == 1)
 
 
 ```

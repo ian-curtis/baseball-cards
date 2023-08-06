@@ -6,7 +6,7 @@ library(janitor)
 #### Loop through team files to get data file paths ####
 my_files <-
   list.files(
-    path = ("../card_data/"),
+    path = ("./card_data/"),
     pattern = "*.csv",
     full.names = TRUE
   )
@@ -15,7 +15,8 @@ my_files <-
 cards <- read_csv(my_files, na = c("", "NA", "none"))
 
 #### Select all cool cards for card showcase ####
-cool_cards <- read_csv("cool_cards.csv")
+cool_cards <- cards %>% 
+  filter(showcase == 1)
 
 # set ggplot theme
 my_theme <-  theme(panel.grid.minor.y = element_blank(),
@@ -29,7 +30,7 @@ ui <- fluidPage(navbarPage(
   #### Home Page ####
   tabPanel(
     "Home",
-    h1('About This App and Collection'),
+    tags$div(h1('About This App and Collection'),
     p('Welcome to my baseball card collection!'),
     p(
       "I've collected baseball cards for quite some time now (since at least the late 2000's. I also really enjoy statistics and thought it would be interesting to electronically record all of my cards.)"
@@ -40,16 +41,15 @@ ui <- fluidPage(navbarPage(
     p(
       "The tabs at the top of the screen provide these functions. 'Curated Collections' consists of pre-made charts and plots summarizing my collection. See what comes up! 'Card Showcase' offers a glance at cards I personally find cool or interesting. Finally, the 'Search' tab leads to a search bar with multiple filters."
     ),
-    p(
-      "The last update to this app/the data was _____."
-    )
-  ),
+    p("The last update to this app was July 17, 2023."),
+    p("The last update to the card data was July 17, 2023.")
+  ), style = "width: 80%; text-align: center; margin: auto"),
   
   
   #### Plots and Charts ####
   tabPanel("Curated Summaries",
            mainPanel(width = 12,
-             h1('Pre-made Summary Plots and Tables'),
+             tags$div(h1('Pre-made Summary Plots and Tables'),
              p('Here I demonstrate summary information about my collection. The plots and tables below may rotate and change over time as I experiment with new ways to share info.'),
              h2('Plots'),
              fluidRow(
@@ -61,34 +61,46 @@ ui <- fluidPage(navbarPage(
              h2('Tables'),
              htmlOutput("total_counts"),
              htmlOutput("counts_by_team"),
-             htmlOutput("counts_by_brand")
-             )
+             htmlOutput("counts_by_brand"),
+             style = "width: 80%; text-align: center; margin: auto")
              
-           ),
+           )),
   
   
   #### Card Showcase ####
   tabPanel("Card Showcase",
            mainPanel(width = 12,
+                     tags$div(
              h1("Showing Off Cards I Find Cool"),
            p("The card shown here was randomly generated from a list of cards that I want to show off from my collection. Each time you press the refresh button, you'll get a different card!"),
+           p("The cards found here are a mixture of rookie, parallel, numbered, autographed, and chrome cards that I find particularly cool or interesting. There are also a few cards that don't fall into the above categories but that are just fun to have (such as Bobby Witt or 1987 Jack Morris)."),
+           style = "width: 80%; margin: auto; text-align: center"),
            fluidRow(
-             column(12, offset = 5, actionButton('showcase_refresh', 'New Card!'))
+              align = 'center', 
+              actionButton('showcase_refresh', 'New Card!', 
+                           style = "width: 200px; height: 50px; background-color: #e3e3e3; font-size: 20px")
            ),
-           h2(textOutput("showcase_player_name")),
-           p(textOutput("showcase_team_position")),
-           htmlOutput("showcase_info"),
-           fluidRow(
-             column(6, imageOutput("showcase_front", width = "100px"))
-           )
-           
+           fluidRow(align = 'center',
+             h2(textOutput("showcase_player_name")),
+           ),
+           fluidRow(align = 'center',
+             p(textOutput("showcase_team_position"))
+           ),
+           fluidRow(align = 'center',
+              htmlOutput("showcase_info")
+           ),
+           fluidRow(align = 'center',
+                    column(6, imageOutput("showcase_front")),
+                    column(6, imageOutput("showcase_rear"))
+           ),
            )),
   
   
   
   tabPanel("Search",
-           h1('Searching the Card Collection'),
-           p("Hey! This page doesn't work yet. Come back soon!"))
+           tags$div(h1('Searching the Card Collection'),
+           p("Hey! This page doesn't work yet. Come back soon!"),
+           style = "width: 80%; text-align: center; margin: auto"))
   
 ))
 
@@ -166,7 +178,7 @@ server <- function(input, output) {
       ) %>% 
       kbl("html", caption = "Number of Cards by Category",
           col.names = c("Total", "Rookie Cards", "Opening Day", "All Star Game", "Chrome", "Refractor", "Parallel", "Heritage", "Autograph", "Numbered")) %>% 
-      kable_styling('bordered', full_width = F)
+      kable_styling('bordered', full_width = F, fixed_thead = TRUE)
   })
   
   output$counts_by_team <- renderText({
@@ -185,7 +197,7 @@ server <- function(input, output) {
       ) %>% 
       kbl(caption = "Number of Cards by Team",
           col.names = c("Team", "Total", "Rookie Cards", "Opening Day", "All Star Game", "Chrome", "Refractor", "Heritage", "Autograph", "Numbered")) %>%
-      kable_styling(c('bordered', 'condensed', 'striped'), full_width = F)
+      kable_styling(c('bordered', 'condensed', 'striped'), full_width = F, fixed_thead = TRUE)
     
   })
   
@@ -214,11 +226,11 @@ server <- function(input, output) {
   # random number to pick a showcase card
   generate_showcase_int <- reactive({
     if (input$showcase_refresh == 0) {
-      # showcase_int <- sample(seq(1:nrow(cool_cards)), 1)
+      showcase_int <- sample(seq(1:nrow(cool_cards)), 1)
     }
    
-    # showcase_int <- sample(seq(1:nrow(cool_cards)), 1)
-    showcase_int <- 2
+    showcase_int <- sample(seq(1:nrow(cool_cards)), 1)
+    # showcase_int <- 149
     
   })
   
@@ -256,13 +268,19 @@ server <- function(input, output) {
   
   output$showcase_front <- renderImage({
     
-    card <- cool_cards[generate_showcase_int(), ]
-    new_num <- str_remove(card$card_number, "-") %>% tolower()
+    filename <- normalizePath(file.path("./www",
+                                        cool_cards[generate_showcase_int(),]$image_front))
     
-    filename <- normalizePath(file.path("./imgs", paste(generate_showcase_int(),
-                                                       new_num, "f.png", sep = "_")))
+    list(src = filename, style = "width: 50%")
     
-    list(src = filename)
+  }, deleteFile = FALSE)
+  
+  output$showcase_rear <- renderImage({
+    
+    filename <- normalizePath(file.path("./www",
+                                        cool_cards[generate_showcase_int(),]$image_rear))
+    
+    list(src = filename, style = "width: 50%")
     
   }, deleteFile = FALSE)
   

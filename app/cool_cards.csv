@@ -12,6 +12,7 @@ Spencer Strider,Atlanta Braves,2022,2021,P,topps,509,0,1,0,0,1,0,0,0,0,0,0,0,0,0
 Ronald Acuna Jr.,Atlanta Braves,2022,2021,OF,topps,GNC-8,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,rona_2022_top_gnc8_f.png,rona_2022_top_gnc8_r.png,Generation Now
 Ozzie Albies,Atlanta Braves,2023,2022,2B,topps,T88-63,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,ozzi_2023_top_t8863_f.png,ozzi_2023_top_t8863_r.png,NA
 Michael Harris II,Atlanta Braves,2023,2022,OF,topps,SMLB-35,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,mich_2023_top_smlb35_f.png,mich_2023_top_smlb35_r.png,Stars of MLB
+Ryan Doumit,Atlanta Braves,2014,2013,C,topps,US-108,0,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,0122/2014,0,1,ryan_2014_top_us108_f.png,ryan_2014_top_us108_r.png,NA
 Manny Machado,Baltimore Orioles,2014,2013,3B,topps,128,0,0,1,0,1,1,0,1,0,0,0,blue,1,0,0,0,0,0,0,0,1,mann_2014_top_128_f.png,mann_2014_top_128_r.png,"Future Stars (Shiny Blue), Dated (March 30, 2014)"
 Cal Ripken Jr.,Baltimore Orioles,1990,1989,SS,upper deck,347,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,cal_1990_upp_347_f.png,cal_1990_upp_347_r.png,NA
 Cal Ripken Jr.,Baltimore Orioles,2021,2020,SS,topps,HH-13,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,cal_2021_top_hh13_f.png,cal_2021_top_hh13_r.png,"Historical Hits (July 10th, 2001)"
@@ -31,16 +32,20 @@ Wade Boggs,Boston Red Sox,2022,2021,3B,topps,T87-86,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 David Ortiz,Boston Red Sox,2021,2020,DH,topps,687,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,davi_2021_top_687_f.png,davi_2021_top_687_r.png,NA
 J.D. Martinez,Boston Red Sox,2021,2020,"OF, DH",topps,182,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,j.d._2021_top_182_f.png,j.d._2021_top_182_r.png,NA
 Trevor Story,Boston Red Sox,2023,2022,"2B, SS",topps,T88-35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,trev_2023_top_t8835_f.png,trev_2023_top_t8835_r.png,NA
+Xander Bogaerts,Boston Red Sox,2014,2013,SS,topps,133,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,xand_2014_top_133_f.png,xand_2014_top_133_r.png,Short Print
+Wade Boggs,Boston Red Sox,2021,2020,3B,topps,509,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,wade_2021_top_509_f.png,wade_2021_top_509_r.png,"Topps Chrome, speckle"
 Drew Smyly,Chicago Cubs,2022,2021,P,topps,USC66,0,0,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,drew_2022_top_usc66_f.png,drew_2022_top_usc66_r.png,NA
 Chris Sale,Chicago White Sox,2011,2010,P,topps,65,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,chri_2011_top_65_f.png,chri_2011_top_65_r.png,NA
 Avisail Garcia,Chicago White Sox,2014,2013,OF,topps,526,1,0,0,0,1,1,0,0,0,0,0,red,0,0,0,0,0,0,0,0,1,avis_2014_top_526_f.png,avis_2014_top_526_r.png,NA
 Jose Abreu,Chicago White Sox,2014,2013,1B,topps,496,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,jose_2014_top_496_f.png,jose_2014_top_496_r.png,NA
-Jose Abreu,Chicago White Sox,2014,2013,1B,topps,496,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,jose_2014_top_496_f.png,jose_2014_top_496_r.png,Short Print
+Jose Abreu,Chicago White Sox,2014,2013,1B,topps,496,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,jose_2014_top_496sp_f.png,jose_2014_top_496sp_r.png,Short Print
 Jose Abreu,Chicago White Sox,2014,2013,1B,topps,US-325,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,jose_2014_top_us325_f.png,jose_2014_top_us325_r.png,"Rookie Debut March 31, 2014"
 Dylan Cease,Chicago White Sox,2020,2019,P,topps,43,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,dyla_2020_top_43_f.png,dyla_2020_top_43_r.png,NA
 Jake Burger,Chicago White Sox,2022,2021,3B,topps,186,0,1,0,0,1,1,0,0,0,0,0,silver,1,0,0,0,0,0,0,0,1,jake_2022_top_186_f.png,jake_2022_top_186_r.png,NA
 Gavin Sheets,Chicago White Sox,2021,2020,"1B, OF",topps,87BA-GSH,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,gavi_2021_top_87bagsh_f.png,gavi_2021_top_87bagsh_r.png,NA
 Dylan Cease,Chicago White Sox,2023,2022,P,topps,AA-22,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,dyla_2023_top_aa22_f.png,dyla_2023_top_aa22_r.png,All Aces
+Leury Garcia,Chicago White Sox,2022,2021,"2B, OF",topps,348,0,0,0,0,1,1,0,0,0,0,0,brown,0,0,0,0,0,0,0029/2022,0,1,leur_2022_top_348_f.png,leur_2022_top_348_r.png,NA
+Matt Davidson,Chicago White Sox,2014,2013,3B,topps,174,0,1,1,0,1,1,0,0,0,0,0,blue,0,0,0,0,0,0,1677/2014,0,1,matt_2014_top_174_f.png,matt_2014_top_174_r.png,14-Mar-13
 Joey Votto,Cincinnati Reds,2014,2013,1B,topps,BO-11,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,joey_2014_top_bo11_f.png,joey_2014_top_bo11_r.png,Breaking Out
 Chris Heisey,Cincinnati Reds,2012,2011,OF,topps,636,0,0,0,0,1,1,0,0,0,0,0,gold,1,0,0,0,0,0,0,0,1,chri_2012_top_636_f.png,chri_2012_top_636_r.png,NA
 Johnny Cueto,Cincinnati Reds,2008,2007,P,upper deck,707,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,john_2008_upp_707_f.png,john_2008_upp_707_r.png,NA
@@ -85,18 +90,21 @@ Wade Davis,Kansas City Royals,2014,2013,P,topps,658,0,0,0,0,1,1,0,0,0,0,0,orange
 Mike Moustakas,Kansas City Royals,2014,2013,3B,topps,341,0,0,0,0,1,1,0,0,0,0,0,orange,0,0,0,0,0,0,0,0,1,mike_2014_top_341_f.png,mike_2014_top_341_r.png,NA
 Lorenzo Cain,Kansas City Royals,2014,2013,OF,topps,357,1,0,0,0,1,1,0,0,0,0,0,red,0,0,0,0,0,0,0,0,1,lore_2014_top_357_f.png,lore_2014_top_357_r.png,NA
 George Brett,Kansas City Royals,2022,2021,3B,topps,87AS-39,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1987,1,geor_2022_top_87as39_f.png,geor_2022_top_87as39_r.png,all-star
-C.J. Wilson,Los Angeles Angels of Anaheim,2013,2012,P,topps,CHR-CJW,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,c.j._2013_top_chrcjw_f.png,c.j._2013_top_chrcjw_r.png,"Chasing History (Record Streak), with game-used memorabilia"
-Albert Pujols,Los Angeles Angels of Anaheim,2014,2013,1B,topps,625,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,albe_2014_top_625_f.png,albe_2014_top_625_r.png,NA
-Grant Green,Los Angeles Angels of Anaheim,2014,2013,3B,topps,644,1,0,0,0,1,1,0,0,0,0,0,red,0,0,0,0,0,0,0,0,1,gran_2014_top_644_f.png,gran_2014_top_644_r.png,NA
 Jared Walsh,Los Angeles Angels,2021,2020,1B,topps,258,0,0,0,0,1,1,0,0,1,0,0,cyan,1,0,0,0,0,0,0,0,1,jare_2021_top_258_f.png,jare_2021_top_258_r.png,NA
 Shohei Ohtani,Los Angeles Angels,2023,2022,"P, DH",topps,SMLBC-21,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,shoh_2023_top_smlbc21_f.png,shoh_2023_top_smlbc21_r.png,Stars of MLB
+C.J. Wilson,Los Angeles Angels of Anaheim,2013,2012,P,topps,CHR-CJW,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,c.j._2013_top_chrcjw_f.png,c.j._2013_top_chrcjw_r.png,"Chasing History (Record Streak), with game-used memorabilia"
+Albert Pujols,Los Angeles Angels of Anaheim,2014,2013,1B,topps,625,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,albe_2014_top_625_f.png,albe_2014_top_625_r.png,NA
+Grant Green,Los Angeles Angels of Anaheim,2014,2013,3B,topps,644,1,0,0,0,1,1,0,0,0,0,0,red,0,0,0,0,0,0,0,0,1,,,NA
 Alex Guerrero,Los Angeles Dodgers,2014,2013,SS,topps,14,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,alex_2014_top_14_f.png,alex_2014_top_14_r.png,Checkered
 D.P. May,Los Angeles Dodgers,2020,2019,P,topps,155,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,d.p._2020_top_155_f.png,d.p._2020_top_155_r.png,Gypsy Queen
 Cody Bellinger,Los Angeles Dodgers,2022,2021,OF,topps,T87C-6,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,1,cody_2022_top_t87c6_f.png,cody_2022_top_t87c6_r.png,NA
 Clayton Kershaw,Los Angeles Dodgers,2022,2021,P,topps,41,0,0,0,0,1,1,0,0,0,0,0,silver,0,0,0,0,0,0,0,0,1,clay_2022_top_41_f.png,clay_2022_top_41_r.png,NA
+Dee Gordon,Los Angeles Dodgers,2012,2011,SS,topps,112,0,0,1,0,1,1,0,0,0,0,0,light blue,0,1,0,0,0,0,1641/2012,0,1,dee_2012_top_112_f.png,dee_2012_top_112_r.png,4/15/12
+Ryan Pepiot,Los Angeles Dodgers,2022,2021,P,topps,US109,0,1,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,295/299,0,1,ryan_2022_top_us109_f.png,ryan_2022_top_us109_r.png,NA
 Jazz Chisholm Jr.,Miami Marlins,2022,2021,SS,topps,538,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,jazz_2022_top_538_f.png,jazz_2022_top_538_r.png,NA
 Jazz Chisholm Jr.,Miami Marlins,2021,2020,SS,topps,7,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,jazz_2021_top_7_f.png,jazz_2021_top_7_r.png,NA
 Avisail Garcia,Miami Marlins,2023,2022,OF,topps,USC198,0,0,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,avis_2023_top_usc198_f.png,avis_2023_top_usc198_r.png,NA
+Chad Wallach,Miami Marlins,2021,2020,C,topps,593,0,0,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,117/299,0,1,chad_2021_top_593_f.png,chad_2021_top_593_r.png,NA
 Esteury Ruiz,Milwaukee Brewers,2023,2022,OF,topps,88BA-ERZ,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1988,1,este_2023_top_88baerz_f.png,este_2023_top_88baerz_r.png,NA
 Josh Willingham,Minnesota Twins,2014,2013,OF,topps,385,1,0,0,0,1,1,0,0,0,0,0,red,0,0,0,0,0,0,0,0,1,josh_2014_top_385_f.png,josh_2014_top_385_r.png,NA
 Joe Mauer,Minnesota Twins,2014,2013,C,topps,ODS-10,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,joe_2014_top_ods10_f.png,joe_2014_top_ods10_r.png,Opening Day Stars (3D-ish card)
@@ -106,6 +114,7 @@ Jake Cave,Minnesota Twins,2021,2020,OF,topps,345,0,0,0,0,1,1,0,0,1,0,0,blue,0,0,
 Justin Morneau,Minnesota Twins,2021,2020,1B,topps,PA-JMO,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,059/199,0,1,just_2021_top_pajmo_f.png,just_2021_top_pajmo_r.png,NA
 Joe Ryan,Minnesota Twins,2022,2021,P,topps,390,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,joe_2022_top_390_f.png,joe_2022_top_390_r.png,NA
 Chris Paddack,Minnesota Twins,2022,2021,P,topps,USC130,0,0,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,chri_2022_top_usc130_f.png,chri_2022_top_usc130_r.png,NA
+Brian Duensing,Minnesota Twins,2014,2013,P,topps,488,1,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,1239/2014,0,1,bria_2014_top_488_f.png,bria_2014_top_488_r.png,NA
 Vladimir Guerrero,Montreal Expos,2021,2020,OF,topps,521,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,vlad_2021_top_521_f.png,vlad_2021_top_521_r.png,Topps Chrome
 Jeurys Familia,New York Mets,2014,2013,P,topps,376,1,0,0,0,1,1,0,0,0,0,0,red,0,0,0,0,0,0,0,0,1,jeur_2014_top_376_f.png,jeur_2014_top_376_r.png,NA
 David Wright,New York Mets,2014,2013,3B,topps,TM-DW,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,davi_2014_top_tmdw_f.png,davi_2014_top_tmdw_r.png,Topps Mini
@@ -121,6 +130,7 @@ Andres Gimenez,New York Mets,2021,2020,"2B, SS",bowman,8,0,1,0,0,1,0,0,0,0,0,0,0
 Max Scherzer,New York Mets,2023,2022,P,topps,T88-2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,max_2023_top_t882_f.png,max_2023_top_t882_r.png,NA
 Jacob deGrom,New York Mets,2023,2022,P,topps,48,0,0,0,0,1,1,0,0,0,0,0,silver,1,0,0,0,0,0,0,0,1,jaco_2023_top_48_f.png,jaco_2023_top_48_r.png,NA
 Justin Verlander,New York Mets,2023,2022,P,topps,AA-45,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,just_2023_top_aa45_f.png,just_2023_top_aa45_r.png,All Aces
+Mike Piazza,New York Mets,2022,2021,C,topps,T87C2-38,0,0,0,0,1,1,0,0,1,0,0,gold,0,0,0,0,0,0,0,1987,1,mike_2022_top_t87c238_f.png,mike_2022_top_t87c238_r.png,NA
 Mickey Mantle,New York Yankees,2012,2011,OF,topps,TM-96,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,mick_2012_top_tm96_f.png,mick_2012_top_tm96_r.png,Topps Mini
 Mickey Mantle,New York Yankees,2011,1968,OF,topps,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,mick_2011_top_7_f.png,mick_2011_top_7_r.png,NA
 Masahiro Tanaka,New York Yankees,2014,2013,P,topps,MB-43,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,masa_2014_top_mb43_f.png,masa_2014_top_mb43_r.png,"Rookie Debut: April 4, 2014"
@@ -134,12 +144,14 @@ Giancarlo Stanton,New York Yankees,2021,2020,"OF, DH",topps,193,0,0,0,0,1,1,0,0,
 Giancarlo Stanton,New York Yankees,2022,2021,"OF, DH",topps,T87C2-34,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1987,1,gian_2022_top_t87c234_f.png,gian_2022_top_t87c234_r.png,NA
 Aaron Judge,New York Yankees,2022,2021,OF,topps,87AS-4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1987,1,aaro_2022_top_87as4_f.png,aaro_2022_top_87as4_r.png,All Star
 Yogi Berra,New York Yankees,2022,2021,C,topps,DGC-40,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,yogi_2022_top_dgc40_f.png,yogi_2022_top_dgc40_r.png,Diamond Greats
+Don Mattingly,New York Yankees,2021,2020,1B,topps,696,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,don_2021_top_696_f.png,don_2021_top_696_r.png,NA
 Coco Crisp,Oakland Athletics,2014,2013,OF,topps,92,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,coco_2014_top_92_f.png,coco_2014_top_92_r.png,NA
 Mark McGwire,Oakland Athletics,2020,2019,1B,topps,U-95,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,mark_2020_top_u95_f.png,mark_2020_top_u95_r.png,1992 Home Run Derby
 Chris Bassit,Oakland Athletics,2021,2020,P,topps,214,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,chri_2021_top_214_f.png,chri_2021_top_214_r.png,NA
 Jesus Luzardo,Oakland Athletics,2020,2019,P,topps,5,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,jesu_2020_top_5_f.png,jesu_2020_top_5_r.png,NA
 Matt Olson,Oakland Athletics,2022,2021,1B,topps,T87C-51,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,1,matt_2022_top_t87c51_f.png,matt_2022_top_t87c51_r.png,NA
 Kevin Smith,Oakland Athletics,2022,2022,P,topps,USC21,0,1,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,kevi_2022_top_usc21_f.png,kevi_2022_top_usc21_r.png,NA
+Yoenis Cespedes,Oakland Athletics,2014,2013,OF,topps,88,0,0,1,0,1,1,0,0,0,0,0,blue,1,0,0,0,0,0,0209/2014,0,1,yoen_2014_top_88_f.png,yoen_2014_top_88_r.png,NA
 Aaron Nola,Philadelphia Phillies,2022,2021,P,topps,T87C2-23,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,1,aaro_2022_top_t87c223_f.png,aaro_2022_top_t87c223_r.png,NA
 Nick Castellanos,Philadelphia Phillies,2022,2021,OF,topps,USC67,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,nick_2022_top_usc67_f.png,nick_2022_top_usc67_r.png,NA
 Aaron Nola,Philadelphia Phillies,2023,2022,P,topps,AA-16,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,aaro_2023_top_aa16_f.png,aaro_2023_top_aa16_r.png,All Aces
@@ -153,13 +165,16 @@ Manny Machado,San Diego Padres,2022,2021,3B,topps,T87-55,0,0,0,0,1,1,0,0,0,0,0,0
 Tony Gwynn,San Diego Padres,2021,2020,OF,topps,605,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,tony_2021_top_605_f.png,tony_2021_top_605_r.png,NA
 Fernando Tatis Jr.,San Diego Padres,2021,2020,SS,topps,141,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,fern_2021_top_141_f.png,fern_2021_top_141_r.png,NA
 Jose Azocar,San Diego Padres,2022,2021,OF,topps,USC46,0,1,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,jose_2022_top_usc46_f.png,jose_2022_top_usc46_r.png,NA
+Yu Darvish,San Diego Padres,2022,2021,P,topps,T87C2-77,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,1,yud_2022_top_t87c277_f.png,yud_2022_top_t87c277_r.png,NA
 Brandon Belt,San Francisco Giants,2011,2010,1B,topps,605,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,bran_2011_top_605_f.png,bran_2011_top_605_r.png,NA
 Will Clark,San Francisco Giants,2022,2021,1B,topps,T87C-91,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,1,will_2022_top_t87c91_f.png,will_2022_top_t87c91_r.png,NA
+Alex Cobb,San Francisco Giants,2022,2021,P,topps,359,0,0,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,190/299,0,1,alex_2022_top_359_f.png,alex_2022_top_359_r.png,NA
 Taijuan Walker,Seattle Mariners,2014,2013,P,topps,56,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,taij_2014_top_56_f.png,taij_2014_top_56_r.png,NA
 Ichiro,Seattle Mariners,2022,2021,OF,topps,66,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,ichi_2022_top_66_f.png,ichi_2022_top_66_r.png,NA
 Ken Griffey Jr.,Seattle Mariners,2022,2021,OF,topps,DGC-71,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,ken_2022_top_dgc71_f.png,ken_2022_top_dgc71_r.png,Diamond Greats
 Julio Rodriguez,Seattle Mariners,2022,2022,OF,topps,USC165,0,1,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,juli_2022_top_usc165_f.png,juli_2022_top_usc165_r.png,Rookie Debut: 4/8/2022
 Julio Rodriguez,Seattle Mariners,2023,2022,OF,topps,TLP-JR,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,juli_2023_top_tlpjr_f.png,juli_2023_top_tlpjr_r.png,Commemorative Team Logo Patch Relic
+Edgar Martinez,Seattle Mariners,2022,2021,"3B, DH",topps,127,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,edga_2022_top_127_f.png,edga_2022_top_127_r.png,mini card
 Kolten Wong,St. Louis Cardinals,2014,2013,2B,topps,141,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,kolt_2014_top_141_f.png,kolt_2014_top_141_r.png,NA
 Albert Pujols,St. Louis Cardinals,2011,2010,1B,topps,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,albe_2011_top_100_f.png,albe_2011_top_100_r.png,Factory Set Limited Edition
 Albert Pujols,St. Louis Cardinals,2022,2021,"1B, DH",topps,USC50,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,albe_2022_top_usc50_f.png,albe_2022_top_usc50_r.png,NA
@@ -170,29 +185,14 @@ Wander Franco,Tampa Bay Rays,2022,2021,3B,topps,215,0,1,0,0,1,1,0,0,0,0,0,0,0,1,
 Wander Franco,Tampa Bay Rays,2022,2021,SS,topps,87BR-WF,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1987,1,wand_2022_top_87brwf_f.png,wand_2022_top_87brwf_r.png,Relic Card (Game Worn Memorabilia)
 Vidal Brujan,Tampa Bay Rays,2022,2022,"2B, OF",topps,USC91,0,1,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,vida_2022_top_usc91_f.png,vida_2022_top_usc91_r.png,Rookie Debut: 7/7/2021
 Wander Franco,Tampa Bay Rays,2023,2022,SS,topps,215,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,wand_2023_top_215_f.png,wand_2023_top_215_r.png,NA
+Desmond Jennings,Tampa Bay Rays,2014,2013,OF,topps,582,1,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,1105/2014,0,1,desm_2014_top_582_f.png,desm_2014_top_582_r.png,NA
 Josh Hamilton,Texas Rangers,2012,2011,OF,topps,ODS-19,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,josh_2012_top_ods19_f.png,josh_2012_top_ods19_r.png,Opening Day Stars (3D-ish card)
 Bobby Witt,Texas Rangers,1998,1997,P,fleer,262,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,bobb_1998_fle_262_f.png,bobb_1998_fle_262_r.png,NA
 Martin Perez,Texas Rangers,2022,2022,P,topps,USC103,0,0,0,0,1,1,0,0,1,0,0,purple,0,0,0,0,0,0,0,0,1,mart_2022_top_usc103_f.png,mart_2022_top_usc103_r.png,NA
+Brock Holt,Texas Rangers,2022,2021,3B,topps,113,0,0,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,238/299,0,1,broc_2022_top_113_f.png,broc_2022_top_113_r.png,NA
+Glenn Otto,Texas Rangers,2022,2021,P,topps,437,1,1,0,0,1,1,0,0,0,0,0,red star,0,0,0,0,0,0,26/76,0,1,glen_2022_top_437_f.png,glen_2022_top_437_r.png,NA
 Teoscar Hernandez,Toronto Blue Jays,2018,2017,OF,topps,184,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,teos_2018_top_184_f.png,teos_2018_top_184_r.png,Cardboard Card (with printed signature)
 Lourdes Gurriel Jr.,Toronto Blue Jays,2021,2020,OF,topps,416,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,lour_2021_top_416_f.png,lour_2021_top_416_r.png,NA
 Randal Grichuk,Toronto Blue Jays,2020,2019,OF,topps,114,0,0,1,0,1,0,0,0,0,0,0,blue,0,0,0,0,0,0,0,0,1,rand_2020_top_114_f.png,rand_2020_top_114_r.png,3/26/20
 Ian Desmond,Washington Nationals,2010,2009,SS,topps,196,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ian_2010_top_196_f.png,ian_2010_top_196_r.png,NA
 Max Scherzer,Washington Nationals,2021,2020,P,bowman,77,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,max_2021_bow_77_f.png,max_2021_bow_77_r.png,NA
-Ryan Doumit,Atlanta Braves,2014,2013,C,topps,US-108,0,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,0122/2014,0,1,ryan_2014_top_us108_f.png,ryan_2014_top_us108_r.png,NA
-Leury Garcia,Chicago White Sox,2022,2021,"2B, OF",topps,348,0,0,0,0,1,1,0,0,0,0,0,brown,0,0,0,0,0,0,0029/2022,0,1,leur_2022_top_348_f.png,leur_2022_top_348_r.png,NA
-Dee Gordon,Los Angeles Dodgers,2012,2011,SS,topps,112,0,0,1,0,1,1,0,0,0,0,0,light blue,0,1,0,0,0,0,1641/2012,0,1,dee_2012_top_112_f.png,dee_2012_top_112_r.png,4/15/12
-Ryan Pepiot,Los Angeles Dodgers,2022,2021,P,topps,US109,0,1,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,295/299,0,1,ryan_2022_top_us109_f.png,ryan_2022_top_us109_r.png,NA
-Chad Wallach,Miami Marlins,2021,2020,C,topps,593,0,0,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,117/299,0,1,chad_2021_top_593_f.png,chad_2021_top_593_r.png,NA
-Brian Duensing,Minnesota Twins,2014,2013,P,topps,488,1,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,1239/2014,0,1,bria_2014_top_488_f.png,bria_2014_top_488_r.png,NA
-Yoenis Cespedes,Oakland Athletics,2014,2013,OF,topps,88,0,0,1,0,1,1,0,0,0,0,0,blue,1,0,0,0,0,0,0209/2014,0,1,yoen_2014_top_88_f.png,yoen_2014_top_88_r.png,NA
-Alex Cobb,San Francisco Giants,2022,2021,P,topps,359,0,0,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,190/299,0,1,alex_2022_top_359_f.png,alex_2022_top_359_r.png,NA
-Desmond Jennings,Tampa Bay Rays,2014,2013,OF,topps,582,1,0,0,0,1,1,0,0,0,0,0,gold,0,0,0,0,0,0,1105/2014,0,1,desm_2014_top_582_f.png,desm_2014_top_582_r.png,NA
-Brock Holt,Texas Rangers,2022,2021,3B,topps,113,0,0,0,0,1,1,0,0,0,0,0,orange,1,0,0,0,0,0,238/299,0,1,broc_2022_top_113_f.png,broc_2022_top_113_r.png,NA
-Glenn Otto,Texas Rangers,2022,2021,P,topps,437,1,1,0,0,1,1,0,0,0,0,0,red star,0,0,0,0,0,0,26/76,0,1,glen_2022_top_437_f.png,glen_2022_top_437_r.png,NA
-Matt Davidson,Chicago White Sox,2014,2013,3B,topps,174,0,1,1,0,1,1,0,0,0,0,0,blue,0,0,0,0,0,0,1677/2014,0,1,matt_2014_top_174_f.png,matt_2014_top_174_r.png,14-Mar-13
-Mike Piazza,New York Mets,2022,2021,C,topps,T87C2-38,0,0,0,0,1,1,0,0,1,0,0,gold,0,0,0,0,0,0,0,1987,1,mike_2022_top_t87c238_f.png,mike_2022_top_t87c238_r.png,NA
-Yu Darvish,San Diego Padres,2022,2021,P,topps,T87C2-77,0,0,0,0,1,1,0,0,1,0,0,gold,1,0,0,0,0,0,0,1987,1,yud_2022_top_t87c277_f.png,yud_2022_top_t87c277_r.png,NA
-Don Mattingly,New York Yankees,2021,2020,1B,topps,696,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,don_2021_top_696_f.png,don_2021_top_696_r.png,NA
-Xander Bogaerts,Boston Red Sox,2014,2013,SS,topps,133,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,xand_2014_top_133_f.png,xand_2014_top_133_r.png,Short Print
-Wade Boggs,Boston Red Sox,2021,2020,3B,topps,509,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,wade_2021_top_509_f.png,wade_2021_top_509_r.png,"Topps Chrome, speckle"
-Edgar Martinez,Seattle Mariners,2022,2021,"3B, DH",topps,127,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,edga_2022_top_127_f.png,edga_2022_top_127_r.png,mini card
