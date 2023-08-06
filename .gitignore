@@ -1,3 +1,8 @@
 .DS_Store
 .Rproj.user
 .Rhistory
+app/www/
+app/didnt_work/
+app/rsconnect
+mike_*.csv
+*.py
