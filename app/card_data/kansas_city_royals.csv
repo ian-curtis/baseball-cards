@@ -70,10 +70,10 @@ Greg Holland,Kansas City Royals,2014,2013,P,topps,US-295,0,0,0,1,1,0,0,0,0,0,0,0
 Bo Jackson,Kansas City Royals,2014,2013,OF,topps,UC-40,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Upper Class (1987),NA,NA
 Adalberto Mondesi,Kansas City Royals,2020,2019,SS,topps,35,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bo Jackson,Kansas City Royals,1989,1989,OF,donruss,650,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Bo Jackson,Kansas City Royals,1990,1989,OF,upper deck,545,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ken Brett,Kansas City Royals,1982,1981,P,fleer,406,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Mike Jones,Kansas City Royals,1982,1981,P,fleer,412,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Dave Chalk,Kansas City Royals,1982,1981,SS,fleer,407,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Bo Jackson,Kansas City Royals,1990,1989,OF,upper deck,545,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ken Brett,Kansas City Royals,1982,1981,P,fleer,406,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Mike Jones,Kansas City Royals,1982,1981,P,fleer,412,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Dave Chalk,Kansas City Royals,1982,1981,SS,fleer,407,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Danny Jackson,Kansas City Royals,1985,1985,P,donruss,95,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Tom Gordon,Kansas City Royals,1990,1989,P,leaf,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Kendrys Morales,Kansas City Royals,2017,2016,DH,topps,205,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -97,16 +97,16 @@ Steve Balboni,Kansas City Royals,1984,1984,1B,donruss,95,0,0,0,0,1,0,0,0,0,0,0,0
 Frank White,Kansas City Royals,1984,1984,2B,donruss,148,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
 Bob Hameln,Kansas City Royals,1994,1993,1B,upper deck,249,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Electric Diamond,NA,NA
 Joe Beckwith,Kansas City Royals,1984,1984,P,donruss,541,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Jorge Orta,Kansas City Royals,1985,1985,DH,donruss,339,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Jorge Orta,Kansas City Royals,1985,1985,DH,donruss,339,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bud Black,Kansas City Royals,1985,1984,P,topps,412,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-George Brett,Kansas City Royals,1990,1990,1B,upper deck,525,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+George Brett,Kansas City Royals,1990,1990,1B,upper deck,525,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Danny Jackson,Kansas City Royals,1984,1984,P,donruss,374,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Greg Pryor,Kansas City Royals,1985,1985,"1B, 2B, 3B, SS",donruss,344,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Joe Randa,Kansas City Royals,1992,1991,3B,bowman,560,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brian McRae,Kansas City Royals,1995,1994,OF,upper deck,460,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Collector's Choice,NA,NA
 Mark Gubicza,Kansas City Royals,1995,1994,P,upper deck,464,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Collector's Choice,NA,NA
 Charlie Leibrandt,Kansas City Royals,1984,1984,P,donruss,399,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Renie Martin,Kansas City Royals,1982,1981,P,topps,594,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Renie Martin,Kansas City Royals,1982,1981,P,topps,594,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Rich Gale,Kansas City Royals,1982,1981,P,fleer,408,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Wily Peralta,Kansas City Royals,2019,2018,P,topps,463,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Dennis Leonard,Kansas City Royals,1984,1983,P,topps,375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -180,14 +180,14 @@ Ivan Castillo,Kansas City Royals,2022,2021,2B,topps,660,0,1,0,0,1,1,0,0,0,0,0,0,
 MJ Melendez,Kansas City Royals,2022,2022,C,topps,USC84,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Scott Barlow,Kansas City Royals,2023,2022,P,topps,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Vinnie Pasquantino,Kansas City Royals,2023,2022,1B,topps,302,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Salvador Perez,Kansas City Royals,2023,2022,C,topps,102,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Nick Pratto,Kansas City Royals,2023,2022,1B,topps,182,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Salvador Perez,Kansas City Royals,2023,2022,C,topps,102,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nick Pratto,Kansas City Royals,2023,2022,1B,topps,182,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Team Card,Kansas City Royals,2023,2022,team,topps,134,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Brad Keller,Kansas City Royals,2023,2022,P,topps,189,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Bobby Witt Jr.,Kansas City Royals,2023,2022,"3B, SS",topps,7,0,0,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
+Brad Keller,Kansas City Royals,2023,2022,P,topps,189,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Bobby Witt Jr.,Kansas City Royals,2023,2022,"3B, SS",topps,7,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
 Brady Singer,Kansas City Royals,2023,2022,P,topps,328,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Drew Waters,Kansas City Royals,2023,2022,OF,topps,543,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Zack Greinke,Kansas City Royals,2023,2022,P,topps,420,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Zack Greinke,Kansas City Royals,2023,2022,P,topps,420,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jonathan Heasley,Kansas City Royals,2023,2022,P,topps,346,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 MJ Melendez,Kansas City Royals,2023,2022,"C, OF",topps,587,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Daniel Lynch,Kansas City Royals,2023,2022,P,topps,397,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -196,3 +196,18 @@ Kyle Isbel,Kansas City Royals,2023,2022,OF,topps,578,0,0,0,0,2,0,0,0,0,0,0,0,0,0
 Nate Eaton,Kansas City Royals,2023,2022,"3B, OF",topps,557,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Hunter Dozier,Kansas City Royals,2023,2022,"1B, 3B",topps,637,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Salvador Perez,Kansas City Royals,2023,2022,C,topps,SMLB-59,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Bobby Witt Jr.,Kansas City Royals,2023,2022,"3B, SS",topps,7,0,0,0,0,1,1,0,0,0,0,0,silver,1,0,0,0,0,0,0,1,NA,Collector's Box,NA,NA
+Michael Massey,Kansas City Royals,2023,2022,2B,topps,167,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Max Castillo,Kansas City Royals,2023,2022,P,topps,251,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Bobby Witt Jr.,Kansas City Royals,2023,2022,SS,topps,SMLB-17,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Salvador Perez,Kansas City Royals,2023,2022,C,topps,T88-33,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,NA,NA,NA,NA
+Zack Greinke,Kansas City Royals,2023,2022,P,topps,AA-72,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,All Aces,NA,NA
+Brewer Hicklen,Kansas City Royals,2023,2022,OF,topps,US37,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Freddy Fermin,Kansas City Royals,2023,2022,C,topps,US114,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Maikel Garcia,Kansas City Royals,2023,2022,SS,topps,US144,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Luis Garrett,Kansas City Royals,2023,2022,P,topps,US169,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Salvador Perez,Kansas City Royals,2023,2022,C,topps,ASG-42,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Vinnie Pasquantino,Kansas City Royals,2023,2022,"1B, DH",topps,US110,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,Rookie Debut: 6/28/2022,NA,NA
+Aroldis Chapman,Kansas City Royals,2023,2022,P,topps,US194,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Bobby Witt Jr.,Kansas City Royals,2023,2022,SS,topps,94,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Flagship Collection,NA,NA
+Bobby Witt Jr.,Kansas City Royals,2023,2022,SS,topps,HRCW-15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0237/1132,0,NA,Home Run Challenge Winner,NA,NA

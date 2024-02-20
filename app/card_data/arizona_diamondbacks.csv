@@ -89,7 +89,7 @@ Zack Godley,Arizona Diamondbacks,2019,2018,P,topps,59,1,0,0,0,1,0,0,0,0,0,0,0,0,
 Taijuan Walker,Arizona Diamondbacks,2017,2016,P,topps,US233,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Andrew Chafin,Arizona Diamondbacks,2019,2018,P,topps,484,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Luke Weaver,Arizona Diamondbacks,2019,2018,P,topps,US277,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Merrill Kelly,Arizona Diamondbacks,2020,2019,P,topps,137,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Merrill Kelly,Arizona Diamondbacks,2020,2019,P,topps,137,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Alex Avila,Arizona Diamondbacks,2019,2018,C,topps,458,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 John Ryan Murphy,Arizona Diamondbacks,2019,2018,C,topps,US186,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Wilmer Flores,Arizona Diamondbacks,2019,2018,"1B, 2B",topps,US203,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -102,7 +102,7 @@ Kole Calhoun,Arizona Diamondbacks,2021,2020,OF,topps,512,0,0,0,0,1,0,0,0,0,0,0,0
 Tyler Gilbert,Arizona Diamondbacks,2022,2021,P,topps,130,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Stuart Fairchild,Arizona Diamondbacks,2022,2021,OF,topps,163,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Team Card,Arizona Diamondbacks,2022,2021,team,topps,144,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Merrill Kelly,Arizona Diamondbacks,2022,2021,P,topps,74,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Merrill Kelly,Arizona Diamondbacks,2022,2021,P,topps,74,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Drew Ellis,Arizona Diamondbacks,2022,2021,3B,topps,298,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Christian Walker,Arizona Diamondbacks,2022,2021,1B,topps,75,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Pavin Smith,Arizona Diamondbacks,2022,2021,"1B, OF",topps,106,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -131,21 +131,35 @@ Josh Rojas,Arizona Diamondbacks,2022,2021,2B,topps,US180,0,0,0,0,1,0,0,0,0,0,0,0
 Jordan Luplow,Arizona Diamondbacks,2022,2021,OF,topps,US286,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Seth Beer,Arizona Diamondbacks,2022,2021,OF,topps,162,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
 Josh Rojas,Arizona Diamondbacks,2022,2021,3B,topps,USC172,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Merrill Kelly,Arizona Diamondbacks,2023,2022,P,topps,71,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Seth Beer,Arizona Diamondbacks,2023,2022,"1B, DH",topps,105,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Merrill Kelly,Arizona Diamondbacks,2023,2022,P,topps,71,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Seth Beer,Arizona Diamondbacks,2023,2022,"1B, DH",topps,105,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Zac Gallen,Arizona Diamondbacks,2023,2022,P,topps,412,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Drey Jameson,Arizona Diamondbacks,2023,2022,P,topps,502,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Alek Thomas,Arizona Diamondbacks,2023,2022,OF,topps,568,1,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Drey Jameson,Arizona Diamondbacks,2023,2022,P,topps,502,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Alek Thomas,Arizona Diamondbacks,2023,2022,OF,topps,568,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Corbin Carrol,Arizona Diamondbacks,2023,2022,OF,topps,SMLB-34,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
-Emmanuel Rivera,Arizona Diamondbacks,2023,2022,3B,topps,431,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Emmanuel Rivera,Arizona Diamondbacks,2023,2022,3B,topps,431,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Carson Kelly,Arizona Diamondbacks,2023,2022,C,topps,633,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jake McCarthy,Arizona Diamondbacks,2023,2022,OF,topps,422,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ryne Nelson,Arizona Diamondbacks,2023,2022,P,topps,459,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ryne Nelson,Arizona Diamondbacks,2023,2022,P,topps,459,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Geraldo Perdomo,Arizona Diamondbacks,2023,2022,SS,topps,531,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Tommy Henry,Arizona Diamondbacks,2023,2022,P,topps,336,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Tommy Henry,Arizona Diamondbacks,2023,2022,P,topps,336,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Lourdes Gourriel Jr.,Arizona Diamondbacks,2023,2022,OF,topps,579,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Corbin Carrol,Arizona Diamondbacks,2023,2022,OF,topps,401,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Zac Gallen,Arizona Diamondbacks,2023,2022,P,topps,412,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Zac Gallen,Arizona Diamondbacks,2023,2022,P,topps,412,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Christian Walker,Arizona Diamondbacks,2023,2022,1B,topps,639,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Evan Longoria,Arizona Diamondbacks,2023,2022,3B,topps,492,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Gabriel Moreno,Arizona Diamondbacks,2023,2022,C,topps,SML-57,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+P.J. Higgins,Arizona Diamondbacks,2023,2022,C,topps,US82,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Lourdes Gourriel Jr.,Arizona Diamondbacks,2023,2022,OF,topps,ASG-35,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Randy Johnson,Arizona Diamondbacks,2022,2022,P,topps,PAG-24,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,Pitching a Gem,NA,NA
+Ketel Marte,Arizona Diamondbacks,2023,2022,2B,topps,239,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Caleb Smith,Arizona Diamondbacks,2023,2022,P,topps,191,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Zach Davies,Arizona Diamondbacks,2023,2022,P,topps,123,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Team Card,Arizona Diamondbacks,2023,2022,team,topps,263,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Kyle Lewis,Arizona Diamondbacks,2023,2022,OF,topps,US307,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Joe Mantiply,Arizona Diamondbacks,2023,2022,P,topps,US131,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Dominic Fletcher,Arizona Diamondbacks,2023,2022,OF,topps,US32,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Andrew Chafin,Arizona Diamondbacks,2023,2022,P,topps,US62,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Brandon Pfaadt,Arizona Diamondbacks,2023,2022,P,topps,US6,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Mark Melancon,Arizona Diamondbacks,2023,2022,P,topps,US217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Corbin Carrol,Arizona Diamondbacks,2023,2022,OF,topps,US244,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 8/29/2022,NA,NA

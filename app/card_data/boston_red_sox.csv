@@ -82,7 +82,7 @@ J.D. Drew,Boston Red Sox,2011,2010,OF,topps,653,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 Dustin Pedroia,Boston Red Sox,2010,2009,2B,topps,none,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Daniel Nava,Boston Red Sox,2014,2013,OF,topps,362,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jody Reed,Boston Red Sox,1990,1989,SS,leaf,150,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Tony Armas,Boston Red Sox,1985,1985,OF,donruss,127,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Tony Armas,Boston Red Sox,1985,1985,OF,donruss,127,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mike Boddicker,Boston Red Sox,1990,1989,P,leaf,19,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 John Dopson,Boston Red Sox,1990,1989,P,leaf,130,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Andrew Cashner,Boston Red Sox,2020,2019,P,topps,153,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -124,7 +124,7 @@ Bill Buckner,Boston Red Sox,1984,1984,1B,donruss,416,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Nathan Eovaldi,Boston Red Sox,2019,2018,P,topps,US282,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Tom Seaver,Boston Red Sox,1986,1986,P,donruss,375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Dave Stapleton,Boston Red Sox,1982,1981,2B,topps,589,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Jackie Bradley Jr.,Boston Red Sox,2020,2019,OF,topps,138,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Jackie Bradley Jr.,Boston Red Sox,2020,2019,OF,topps,138,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Ellis Burks,Boston Red Sox,1989,1988,OF,upper deck,434,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mike Greenwell,Boston Red Sox,1989,1988,OF,upper deck,432,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Tom Burgmeier,Boston Red Sox,1982,1982,P,donruss,361,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -165,7 +165,6 @@ Bobby Dalbec,Boston Red Sox,2022,2021,1B,topps,7,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
 Christian Vazquez,Boston Red Sox,2022,2021,C,topps,63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Xander Bogaerts,Boston Red Sox,2022,2021,SS,topps,8,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 J.D. Martinez,Boston Red Sox,2022,2021,"OF, DH",topps,182,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Double Bath,Boston Red Sox,2022,2021,split,topps,229,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Xander and Vazquez Get Ready To Douse (Checklist),NA,NA
 Jarren Duran,Boston Red Sox,2022,2021,OF,topps,187,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Kyle Schwarber,Boston Red Sox,2022,2021,OF,topps,216,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Connor Wong,Boston Red Sox,2022,2021,C,topps,66,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -199,27 +198,43 @@ Connor Seabold,Boston Red Sox,2022,2021,P,topps,524,1,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Kutter Crawford,Boston Red Sox,2022,2021,P,topps,645,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jackie Bradley Jr.,Boston Red Sox,2022,2021,OF,topps,398,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Rich Hill,Boston Red Sox,2022,2021,P,topps,US182,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Jeter Downs,Boston Red Sox,2023,2022,SS,topps,165,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Jeter Downs,Boston Red Sox,2023,2022,SS,topps,165,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Josh Winckowski,Boston Red Sox,2023,2022,P,topps,76,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Team Card,Boston Red Sox,2023,2022,team,topps,273,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Matt Strahm,Boston Red Sox,2023,2022,P,topps,283,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Trevor Story,Boston Red Sox,2023,2022,2B,topps,10,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Team Card,Boston Red Sox,2023,2022,team,topps,273,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Matt Strahm,Boston Red Sox,2023,2022,P,topps,283,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Trevor Story,Boston Red Sox,2023,2022,2B,topps,10,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brayan Bello,Boston Red Sox,2023,2022,P,topps,T88-24,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,NA,NA,NA,NA
 Franchy Cordero,Boston Red Sox,2023,2022,"1B, OF",topps,42,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Triston Casas,Boston Red Sox,2023,2022,1B,topps,92,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jarren Duran,Boston Red Sox,2023,2022,OF,topps,242,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Alex Verdugo,Boston Red Sox,2023,2022,OF,topps,146,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Alex Verdugo,Boston Red Sox,2023,2022,OF,topps,146,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Tommy Pham,Boston Red Sox,2023,2022,OF,topps,266,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brayan Bello,Boston Red Sox,2023,2022,P,topps,185,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Trevor Story,Boston Red Sox,2023,2022,"2B, SS",topps,T88-35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,NA,trev_2023_top_t8835_f.png,trev_2023_top_t8835_r.png
-Justin Turner,Boston Red Sox,2023,2022,3B,topps,403,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Justin Turner,Boston Red Sox,2023,2022,3B,topps,403,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Masataka Yoshida,Boston Red Sox,2023,2022,OF,topps,SMLB-60,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
 Triston Casas,Boston Red Sox,2023,2022,1B,topps,SMLB-39,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB (position marked as OF on front),NA,NA
 Chris Sale,Boston Red Sox,2023,2022,P,topps,333,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bobby Dalbec,Boston Red Sox,2023,2022,1B,topps,390,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Christan Arroyo,Boston Red Sox,2023,2022,"2B, 3B",topps,352,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Masataka Yoshida,Boston Red Sox,2023,2022,OF,topps,471,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Michael Wacha,Boston Red Sox,2023,2022,P,topps,656,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Michael Wacha,Boston Red Sox,2023,2022,P,topps,656,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Enrique Hernandez,Boston Red Sox,2023,2022,"2B, OF",topps,497,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Kutter Crawford,Boston Red Sox,2023,2022,P,topps,493,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Corey Kluber,Boston Red Sox,2023,2022,P,topps,366,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+J.D. Martinez,Boston Red Sox,2022,2022,OF,topps,166,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Jason Varitek,Boston Red Sox,2022,2022,C,topps,314,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Rafael Devers,Boston Red Sox,2023,2022,3B,topps,11,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nick Pivetta,Boston Red Sox,2023,2022,P,topps,152,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Jarren Duran,Boston Red Sox,2023,2022,OF,topps,242,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Caleb Hamilton,Boston Red Sox,2023,2022,C,topps,US160,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Adam Duvall,Boston Red Sox,2023,2022,OF,topps,US72,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Richard Bleier,Boston Red Sox,2023,2022,P,topps,US27,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Bob Refsnyder,Boston Red Sox,2023,2022,OF,topps,US71,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Kenley Jansen,Boston Red Sox,2023,2022,P,topps,US306,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Reese McGuire,Boston Red Sox,2023,2022,C,topps,US115,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Narciso Crook,Boston Red Sox,2023,2022,OF,topps,US186,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+James Paxton,Boston Red Sox,2023,2022,P,topps,US119,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Masataka Yoshida,Boston Red Sox,2023,2022,OF,topps,US5,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 3/30/2023,NA,NA
+Brayan Bello,Boston Red Sox,2023,2022,P,topps,26,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Flagship Collection,NA,NA
+David Ortiz,Boston Red Sox,2023,2022,DH,topps,284,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA

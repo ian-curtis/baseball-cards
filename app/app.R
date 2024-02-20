@@ -42,7 +42,7 @@ ui <- fluidPage(navbarPage(
       "The tabs at the top of the screen provide these functions. 'Curated Collections' consists of pre-made charts and plots summarizing my collection. See what comes up! 'Card Showcase' offers a glance at cards I personally find cool or interesting. Finally, the 'Search' tab leads to a search bar with multiple filters."
     ),
     p("The last update to this app was July 17, 2023."),
-    p("The last update to the card data was July 17, 2023.")
+    p("The last update to the card data was January 2, 2024.")
   ), style = "width: 80%; text-align: center; margin: auto"),
   
   

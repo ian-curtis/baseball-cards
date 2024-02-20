@@ -68,7 +68,7 @@ Joaquin Arias,San Francisco Giants,2014,2013,3B,topps,US-82,0,0,0,0,1,0,0,0,0,0,
 Barry Zito,San Francisco Giants,2014,2013,P,topps,SV-9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Super Veteran,NA,NA
 Pat Sheridan,San Francisco Giants,1990,1989,OF,upper deck,460,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Joe Strain,San Francisco Giants,1981,1980,2B,topps,361,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Joe Pettini,San Francisco Giants,1982,1981,"3B, SS",topps,568,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Joe Pettini,San Francisco Giants,1982,1981,"3B, SS",topps,568,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Billy Smith,San Francisco Giants,1982,1981,"2B, SS",topps,593,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brandon Belt,San Francisco Giants,2020,2019,1B,topps,176,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jerry Martin,San Francisco Giants,1982,1981,OF,donruss,298,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -94,8 +94,8 @@ Jason Grilli,San Francisco Giants,1999,1998,P,bowman,117,0,0,0,0,1,0,0,0,0,0,0,0
 Gary Carter,San Francisco Giants,1990,1989,C,leaf,134,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Barry Bonds,San Francisco Giants,1997,1996,OF,upper deck,9,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Home Run Heros,NA,NA
 Barry Bonds,San Francisco Giants,2001,2000,OF,fleer,12SP,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Solid Performers,NA,NA
-Shaun Anderson,San Francisco Giants,2019,2018,P,topps,US142,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Barry Bonds,San Francisco Giants,2000,1999,OF,fleer,176,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Shaun Anderson,San Francisco Giants,2019,2018,P,topps,US142,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Barry Bonds,San Francisco Giants,2000,1999,OF,fleer,176,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Steve Bedrosian,San Francisco Giants,1990,1989,P,leaf,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Team Card,San Francisco Giants,2017,2016,team,topps,235,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Barry Bonds,San Francisco Giants,1998,1997,OF,flair,none,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -120,7 +120,7 @@ Brandon Belt,San Francisco Giants,2019,2018,1B,topps,148,0,0,0,0,1,0,0,0,0,0,0,0
 Hunter Strickland,San Francisco Giants,2019,2018,P,topps,153,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Dan Gladden,San Francisco Giants,1984,1984,OF,topps,30,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
 Milt May,San Francisco Giants,1983,1982,C,topps,84,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Allen Ripley,San Francisco Giants,1982,1981,P,topps,529,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Allen Ripley,San Francisco Giants,1982,1981,P,topps,529,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Will Clark,San Francisco Giants,1991,1990,1B,leaf,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,1991 Preview Card,NA,NA
 Bob Brenly,San Francisco Giants,1985,1984,C,topps,215,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Randy Lerch,San Francisco Giants,1985,1984,P,topps,103,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -187,18 +187,31 @@ Darin Ruf,San Francisco Giants,2022,2021,OF,topps,US106,0,0,0,0,1,0,0,0,0,0,0,0,
 Logan Webb,San Francisco Giants,2022,2021,P,topps,USC62,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Heliot Ramos,San Francisco Giants,2022,2021,OF,topps,USC194,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Alex Wood,San Francisco Giants,2023,2022,P,topps,304,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Dominic Leone,San Francisco Giants,2023,2022,P,topps,180,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Team Card,San Francisco Giants,2023,2022,team,topps,173,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Dominic Leone,San Francisco Giants,2023,2022,P,topps,180,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Team Card,San Francisco Giants,2023,2022,team,topps,173,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 David Villar,San Francisco Giants,2023,2022,SS,topps,277,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Brandon Crawford,San Francisco Giants,2023,2022,SS,topps,66,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Thairo Estrada,San Francisco Giants,2023,2022,2B,topps,560,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Brandon Crawford,San Francisco Giants,2023,2022,SS,topps,66,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Thairo Estrada,San Francisco Giants,2023,2022,2B,topps,560,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Joc Pederson,San Francisco Giants,2023,2022,OF,topps,508,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 J.D. Davis,San Francisco Giants,2023,2022,"3B, DH",topps,335,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ford Proctor,San Francisco Giants,2023,2022,"C, 2B",topps,472,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Joey Bart,San Francisco Giants,2023,2022,C,topps,435,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ford Proctor,San Francisco Giants,2023,2022,"C, 2B",topps,472,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Joey Bart,San Francisco Giants,2023,2022,C,topps,435,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Logan Webb,San Francisco Giants,2023,2022,P,topps,368,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Wilmer Flores,San Francisco Giants,2023,2022,2B,topps,552,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Sean Manaea,San Francisco Giants,2023,2022,P,topps,429,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bryce Johnson,San Francisco Giants,2023,2022,OF,topps,571,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Michael Conforto,San Francisco Giants,2023,2022,OF,topps,419,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Buster Posey,San Francisco Giants,2022,2021,C,topps,95,0,0,0,0,1,1,0,0,1,0,0,teal,1,0,0,0,0,0,031/199,0,1,NA,NA,NA
+Mitch Haniger,San Francisco Giants,2023,2022,OF,topps,US108,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Brett Wisely,San Francisco Giants,2023,2022,OF,topps,US174,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Casey Schmitt,San Francisco Giants,2023,2022,"3B, SS",topps,US198,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 5/8/2023,NA,NA
+Patrick Bailey,San Francisco Giants,2023,2022,C,topps,US8,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Heliot Ramos,San Francisco Giants,2022,2022,OF,topps,209,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Alex Cobb,San Francisco Giants,2023,2022,P,topps,108,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Camilo Doval,San Francisco Giants,2023,2022,P,topps,262,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Casey Schmitt,San Francisco Giants,2023,2022,"3B, SS",topps,US133,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Anthony DeSclafani,San Francisco Giants,2023,2022,P,topps,US268,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Casey Schmitt,San Francisco Giants,2023,2022,"3B, SS",topps,88US-15,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA
+LaMonte Wade Jr.,San Francisco Giants,2023,2022,"1B, OF",topps,US264,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Joc Pederson,San Francisco Giants,2023,2022,OF,topps,266,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA
+Buster Posey,San Francisco Giants,2023,2022,C,topps,189,1,0,0,0,1,0,0,0,0,0,0,red,0,0,1,0,0,0,0,0,NA,NA,NA,NA

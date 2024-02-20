@@ -2,7 +2,6 @@ name,team,year,season,position,brand,card_number,horizontal,rookie_card,opening_
 Team Card,Milwaukee Brewers,2011,2010,team,topps,187,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jean Segura,Milwaukee Brewers,2014,2013,SS,topps,181,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bernie Brewer,Milwaukee Brewers,2014,2013,mascot,topps,M-4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ryan Braun & Prince Fielder,Milwaukee Brewers,2010,2009,split,topps,237,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Brew Crew Knockout, Series 1 Checklist (3 of 5)",NA,NA
 Franchise History,Milwaukee Brewers,2010,2011,split,topps,72,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Historial Franchise Stats,NA,NA
 Bernie Brewer,Milwaukee Brewers,2012,2011,mascot,topps,M-1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Corey Hart,Milwaukee Brewers,2012,2011,OF,topps,147,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -26,9 +25,8 @@ Casey McGehee,Milwaukee Brewers,2011,2010,3B,topps,608,1,0,0,0,1,0,0,0,0,0,0,0,0
 Alcides Escobar,Milwaukee Brewers,2011,2010,SS,topps,251,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brandon Kintzler,Milwaukee Brewers,2011,2010,P,topps,574,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 John Axford,Milwaukee Brewers,2011,2010,P,topps,591,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Randy Wolf,Milwaukee Brewers,2011,2010,P,topps,14,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Randy Wolf,Milwaukee Brewers,2011,2010,P,topps,14,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Shaun Marcum,Milwaukee Brewers,2012,2011,P,topps,68,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Trevor Hoffman,Milwaukee Brewers,2011,2010,P,topps,71,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Series 1 Checklist 1 of 5,NA,NA
 John Axford,Milwaukee Brewers,2012,2011,P,topps,88,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Chris Narveson,Milwaukee Brewers,2011,2010,P,topps,92,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jeremy Jeffress,Milwaukee Brewers,2011,2010,P,topps,143,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -56,20 +54,20 @@ Jim Henderson,Milwaukee Brewers,2014,2013,P,topps,181,0,0,0,0,1,1,0,0,0,0,0,0,0,
 Scooter Gennett,Milwaukee Brewers,2014,2013,2B,topps,130,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Carlos Gomez,Milwaukee Brewers,2014,2013,OF,topps,302,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brad Nelson,Milwaukee Brewers,2009,2008,1B,topps,479,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Orlando Arcia,Milwaukee Brewers,2020,2019,SS,topps,149,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Orlando Arcia,Milwaukee Brewers,2020,2019,SS,topps,149,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Orlando Arcia,Milwaukee Brewers,2020,2019,SS,topps,140,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brandon Woodruff,Milwaukee Brewers,2020,2019,P,topps,32,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 LaVel Freeman,Milwaukee Brewers,1989,1988,OF,upper deck,788,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 B.J. Surhoff,Milwaukee Brewers,1989,1988,C,upper deck,343,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Dave Stapleton,Milwaukee Brewers,1989,1988,P,upper deck,304,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Glenn Braggs,Milwaukee Brewers,1989,988,OF,upper deck,504,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Glenn Braggs,Milwaukee Brewers,1989,988,OF,upper deck,504,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Darryl Hamilton,Milwaukee Brewers,1989,1988,OF,upper deck,301,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mark Brouhard,Milwaukee Brewers,1983,1982,OF,topps,167,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mike Caldwell,Milwaukee Brewers,1983,1982,P,topps,142,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jim Gantner,Milwaukee Brewers,1984,1984,2B,donruss,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
 Bill Schroeder,Milwaukee Brewers,1984,1984,C,donruss,124,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jett Bandy,Milwaukee Brewers,2017,2016,C,topps,US266,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Matt Albers,Milwaukee Brewers,2019,2018,P,topps,US32,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Matt Albers,Milwaukee Brewers,2019,2018,P,topps,US32,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Orlando Arcia,Milwaukee Brewers,2021,2020,SS,topps,45,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
 Josh Hader,Milwaukee Brewers,2021,2020,P,topps,395,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
 Team Card,Milwaukee Brewers,2021,2020,team,topps,59,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -113,7 +111,6 @@ Jonathan Schoop,Milwaukee Brewers,2019,2018,2B,topps,259,0,0,0,0,1,0,0,0,0,0,0,0
 Robin Yount,Milwaukee Brewers,1992,1991,OF,topps,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Winner (Gold banner),NA,NA
 Ted Simmons,Milwaukee Brewers,1984,1984,DH,donruss,414,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jim Sundberg,Milwaukee Brewers,1984,1984,C,donruss,78,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
-Jim Gantner,Milwaukee Brewers,1984,1984,2B,donruss,217,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
 Cecil Cooper,Milwaukee Brewers,1985,1984,1B,topps,290,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jaime Cocanower,Milwaukee Brewers,1985,1984,P,topps,576,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Ted Simmons,Milwaukee Brewers,1985,1984,"1B, DH",topps,318,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -126,7 +123,7 @@ Howard House,Milwaukee Brewers,1992,1991,OF,bowman,581,0,0,0,0,1,0,0,0,0,0,0,1,0
 John Jaha,Milwaukee Brewers,1992,1991,1B,bowman,542,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Ted Higuera,Milwaukee Brewers,1985,1985,P,donruss,351,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Rick Waits,Milwaukee Brewers,1984,1984,P,donruss,368,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Yasmani Grandal,Milwaukee Brewers,2019,2018,C,topps,US224,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Yasmani Grandal,Milwaukee Brewers,2019,2018,C,topps,US224,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Charlie Moore,Milwaukee Brewers,1984,1984,OF,donruss,351,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mike Moustakas,Milwaukee Brewers,2020,2019,3B,topps,189,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mark Brouhard,Milwaukee Brewers,1984,1984,OF,donruss,149,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -141,10 +138,10 @@ Adrian Houser,Milwaukee Brewers,2016,2015,P,topps,553,0,1,0,0,1,0,0,0,0,0,0,0,0,
 Will Middlebrooks,Milwaukee Brewers,2017,2016,3B,topps,46,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mike Moustakas,Milwaukee Brewers,2019,2019,2B,topps,US49,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Braden Looper,Milwaukee Brewers,2009,2008,P,topps,419,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Josh Hader,Milwaukee Brewers,2019,2018,P,topps,HW193,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Holiday Variant,NA,NA
+Josh Hader,Milwaukee Brewers,2019,2018,P,topps,HW193,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Holiday Variant,NA,NA
 Travis Shaw,Milwaukee Brewers,2017,2016,3B,topps,452,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Josh Hader,Milwaukee Brewers,2018,2017,P,topps,348,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Dion James,Milwaukee Brewers,1985,1985,OF,donruss,107,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Dion James,Milwaukee Brewers,1985,1985,OF,donruss,89,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 B.J. Surhoff,Milwaukee Brewers,1993,1992,C,topps,417,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Chris George,Milwaukee Brewers,1993,1992,P,topps,744,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Chris Bosio,Milwaukee Brewers,1993,1992,P,topps,775,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -170,21 +167,31 @@ Lorenzo Cain,Milwaukee Brewers,2022,2021,OF,topps,442,0,0,0,0,1,0,0,0,0,0,0,0,0,
 Josh Hader,Milwaukee Brewers,2022,2021,P,topps,487,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brandon Woodruff,Milwaukee Brewers,2022,2021,P,topps,336,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Willy Adames,Milwaukee Brewers,2022,2021,SS,topps,378,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Keston Hiura,Milwaukee Brewers,2023,2022,"1B, 2B",topps,104,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ethan Small,Milwaukee Brewers,2023,2022,P,topps,87,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Christian Yelich,Milwaukee Brewers,2023,2022,OF,topps,192,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Aaron Ashby,Milwaukee Brewers,2023,2022,P,topps,281,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Adrian Houser,Milwaukee Brewers,2023,2022,P,topps,323,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Keston Hiura,Milwaukee Brewers,2023,2022,"1B, 2B",topps,104,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ethan Small,Milwaukee Brewers,2023,2022,P,topps,87,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Christian Yelich,Milwaukee Brewers,2023,2022,OF,topps,192,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Aaron Ashby,Milwaukee Brewers,2023,2022,P,topps,281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Adrian Houser,Milwaukee Brewers,2023,2022,P,topps,323,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Tyrone Taylor,Milwaukee Brewers,2023,2022,OF,topps,61,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Esteury Ruiz,Milwaukee Brewers,2023,2022,OF,topps,88BA-ERZ,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1988,1,NA,este_2023_top_88baerz_f.png,este_2023_top_88baerz_r.png
-Luis Urias,Milwaukee Brewers,2023,2022,"2B, 3B",topps,322,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Christian Yelich,Milwaukee Brewers,2023,2022,OF,topps,SMLB-11,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
-Team Card,Milwaukee Brewers,2023,2022,team,topps,533,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Freddy Peralta,Milwaukee Brewers,2023,2022,P,topps,353,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Brian Anderson,Milwaukee Brewers,2023,2022,"3B, OF",topps,480,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Luis Urias,Milwaukee Brewers,2023,2022,"2B, 3B",topps,322,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Christian Yelich,Milwaukee Brewers,2023,2022,OF,topps,SMLB-11,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Freddy Peralta,Milwaukee Brewers,2023,2022,P,topps,353,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Brian Anderson,Milwaukee Brewers,2023,2022,"3B, OF",topps,480,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bryse Wilson,Milwaukee Brewers,2023,2022,P,topps,383,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Team Card,Milwaukee Brewers,2023,2022,team,topps,533,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Victor Cratini,Milwaukee Brewers,2023,2022,C,topps,361,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Rowdy Tellez,Milwaukee Brewers,2023,2022,1B,topps,598,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brice Turang,Milwaukee Brewers,2023,2022,SS,topps,530,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Garrett Mitchell,Milwaukee Brewers,2023,2022,OF,topps,359,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Corbin Burnes,Milwaukee Brewers,2022,2022,P,topps,31,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Aaron Ashby,Milwaukee Brewers,2022,2022,P,topps,174,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Corbin Burnes,Milwaukee Brewers,2023,2022,P,topps,225,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Devin Williams,Milwaukee Brewers,2023,2022,P,topps,US91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Brandon Woodruff,Milwaukee Brewers,2023,2022,P,topps,US184,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+William Contreras,Milwaukee Brewers,2023,2022,C,topps,US197,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Joey Wiemer,Milwaukee Brewers,2023,2022,OF,topps,US245,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Corbin Burnes,Milwaukee Brewers,2023,2022,P,topps,39,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Flagship Collection,NA,NA
+Corbin Burnes,Milwaukee Brewers,2023,2022,P,topps,120,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA
+Brice Turang,Milwaukee Brewers,2023,2022,"2B, SS",topps,116,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA
+Brandon Woodruff,Milwaukee Brewers,2023,2022,P,topps,234,0,0,0,0,1,0,0,0,0,0,0,red,0,0,1,0,0,0,0,0,NA,NA,NA,NA

@@ -10,7 +10,6 @@ Albert Pujols,St. Louis Cardinals,2011,2010,1B,topps,100,0,0,0,0,1,1,0,0,0,0,0,0
 Albert Pujols,St. Louis Cardinals,2010,2009,1B,upper deck,SB-84,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Biography (2009 Season, June 13th, Pujols collects a pair of longballs, leading the league with 22)",NA,NA
 Albert Pujols,St. Louis Cardinals,2011,2010,1B,topps,TT-50,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Topps Town,NA,NA
 Albert Pujols,St. Louis Cardinals,2012,2011,1B,topps,108,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,World Series (2001 Game #3),NA,NA
-Albert Pujols,St. Louis Cardinals,2011,2010,1B,topps,547,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,First to 30+ HR in Each of First 10 Seasons,NA,NA
 Ryan Ludwick,St. Louis Cardinals,2009,2008,OF,upper deck,271,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,First Edtion (Gold Border),NA,NA
 David Freese,St. Louis Cardinals,2011,2010,3B,topps,452,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Chris Duncan,St. Louis Cardinals,2009,2008,OF,topps,269,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,First Edtion (Gold Border),NA,NA
@@ -28,7 +27,7 @@ Brendan Ryan,St. Louis Cardinals,2011,2010,SS,topps,43,0,0,0,0,1,0,0,0,0,0,0,0,0
 Pedre Feliz,St. Louis Cardinals,2011,2010,3B,topps,212,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Skip Schumaker,St. Louis Cardinals,2011,2010,2B,topps,429,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Ryan Theriot,St. Louis Cardinals,2011,2010,2B,topps,438,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Yadier Molina,St. Louis Cardinals,2011,2010,C,topps,90,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Yadier Molina,St. Louis Cardinals,2011,2010,C,topps,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Yadier Molina,St. Louis Cardinals,2010,2009,C,topps,none,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Yadier Molina,St. Louis Cardinals,2012,2011,C,topps,154,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Adam Wainwright,St. Louis Cardinals,2011,2010,P,topps,645,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -108,7 +107,7 @@ Mike Ramsey,St. Louis Cardinals,1982,1981,"2B, SS",topps,574,0,0,0,0,1,0,0,0,0,0
 Bob Shirley,St. Louis Cardinals,1982,1981,P,fleer,127,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Danny Cox,St. Louis Cardinals,1985,1984,P,topps,499,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Darrell Porter,St. Louis Cardinals,1985,1984,C,topps,525,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Jack Flaherty,St. Louis Cardinals,2020,2019,P,topps,155,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Jack Flaherty,St. Louis Cardinals,2020,2019,P,topps,155,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Seung-Hwan Oh,St. Louis Cardinals,2017,2016,P,topps,505,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Lane Thomas,St. Louis Cardinals,2021,2020,OF,topps,259,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Carlos Martinez,St. Louis Cardinals,2021,2020,P,topps,496,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -127,18 +126,17 @@ Pedro Guerrero,St. Louis Cardinals,1989,1988,1B,score,564,0,0,0,0,1,0,0,0,0,0,0,
 Ozzie Smith,St. Louis Cardinals,1993,1992,SS,topps,40,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Topps Gold,NA,NA
 Tim Jones,St. Louis Cardinals,1988,1988,"1B, 2B, 3B, SS",donruss,555,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 David Green,St. Louis Cardinals,1985,1984,1B,topps,87,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Whitey Herzog,St. Louis Cardinals,1985,1984,manager,topps,683,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Bob Forsch,St. Louis Cardinals,1985,1984,P,topps,631,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Dave Von Ohlen,St. Louis Cardinals,1985,1984,P,topps,177,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Gene Tenace,St. Louis Cardinals,1982,1981,C,topps,631,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Todd Zeile,St. Louis Cardinals,1990,1989,C,leaf,221,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Ozzie Smith,St. Louis Cardinals,1990,1989,SS,score,285,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ozzie Smith,St. Louis Cardinals,1989,1989,SS,donruss,201,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ozzie Smith,St. Louis Cardinals,1989,1989,SS,donruss,201,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Ozzie Smith,St. Louis Cardinals,1990,1989,SS,topps,590,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jose Oquendo,St. Louis Cardinals,1990,1989,2B,leaf,129,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Joe Magrane,St. Louis Cardinals,1990,1989,P,leaf,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Nick Plummer,St. Louis Cardinals,2015,2014,OF,bowman,151,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Tyler O'Neill,St. Louis Cardinals,2020,2019,OF,topps,39,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Tyler O'Neill,St. Louis Cardinals,2020,2019,OF,topps,39,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jedd Gyorko,St. Louis Cardinals,2019,2018,"2B, 3B",topps,261,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Carlos Martinez,St. Louis Cardinals,2019,2018,P,topps,58,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jose Martinez,St. Louis Cardinals,2019,2018,1B,topps,123,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -206,23 +204,40 @@ J.A. Happ,St. Louis Cardinals,2022,2021,P,topps,334,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Paul Goldschmidt,St. Louis Cardinals,2022,2021,1B,topps,535,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Andre Pallante,St. Louis Cardinals,2022,2021,P,topps,522,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
 Albert Pujols,St. Louis Cardinals,2022,2021,"1B, DH",topps,USC50,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,NA,albe_2022_top_usc50_f.png,albe_2022_top_usc50_r.png
-Albert Pujols,St. Louis Cardinals,2023,2022,"1B, DH",topps,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Albert Pujols,St. Louis Cardinals,2023,2022,"1B, DH",topps,5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Paul Goldschmidt,St. Louis Cardinals,2023,2022,1B,topps,100,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Jordan Montgomery,St. Louis Cardinals,2023,2022,P,topps,32,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Zack Thompson,St. Louis Cardinals,2023,2022,P,topps,34,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ryan Helsley,St. Louis Cardinals,2023,2022,P,topps,229,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Jordan Montgomery,St. Louis Cardinals,2023,2022,P,topps,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Zack Thompson,St. Louis Cardinals,2023,2022,P,topps,34,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ryan Helsley,St. Louis Cardinals,2023,2022,P,topps,229,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Tommy Edman,St. Louis Cardinals,2023,2022,"2B, SS",topps,294,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Tyler O'Neill,St. Louis Cardinals,2023,2022,OF,topps,79,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Tyler O'Neill,St. Louis Cardinals,2023,2022,OF,topps,79,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Yadier Molina,St. Louis Cardinals,2022,2021,C,topps,WTTS-42,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Welcome to the Show,NA,NA
-Steven Matz,St. Louis Cardinals,2023,2022,P,topps,269,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Steven Matz,St. Louis Cardinals,2023,2022,P,topps,269,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Nolan Arenado,St. Louis Cardinals,2023,2022,3B,topps,T88-26,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,NA,nola_2023_top_t8826_f.png,nola_2023_top_t8826_r.png
-Dakota Hudson,St. Louis Cardinals,2023,2022,P,topps,458,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Dakota Hudson,St. Louis Cardinals,2023,2022,P,topps,458,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Dylan Carlson,St. Louis Cardinals,2023,2022,OF,topps,624,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Miles Mikolas,St. Louis Cardinals,2023,2022,P,topps,548,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jordan Walker,St. Louis Cardinals,2023,2022,"3B, OF",topps,344,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Alec Burleson,St. Louis Cardinals,2023,2022,OF,topps,622,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Willson Contreras,St. Louis Cardinals,2023,2022,C,topps,417,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Willson Contreras,St. Louis Cardinals,2023,2022,C,topps,417,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Lars Nootbaar,St. Louis Cardinals,2023,2022,OF,topps,455,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Nolan Arenado,St. Louis Cardinals,2023,2022,3B,topps,500,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brendan Donovan,St. Louis Cardinals,2023,2022,"2B, OF",topps,584,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
 Paul Goldschmidt,St. Louis Cardinals,2023,2022,1B,topps,SMLB-32,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Adam Wainwright,St. Louis Cardinals,2022,2022,P,topps,205,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Brendan Donovan,St. Louis Cardinals,2022,2022,"2B, OF",topps,248,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Matthew Liberatore,St. Louis Cardinals,2023,2022,P,topps,52,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nolan Gorman,St. Louis Cardinals,2023,2022,2B,topps,16,0,1,0,0,1,1,0,0,0,0,0,silver,refractor,0,0,0,0,0,0,0,NA,Collector's Box,NA,NA
+Yadier Molina,St. Louis Cardinals,2023,2022,C,topps,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Giovanny Gallegos,St. Louis Cardinals,2023,2022,P,topps,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Team Card,St. Louis Cardinals,2023,2022,team,topps,234,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nolan Gorman,St. Louis Cardinals,2023,2022,2B,topps,16,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nolan Arenado,St. Louis Cardinals,2023,2022,3B,topps,SMLB-1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Jordan Walker,St. Louis Cardinals,2023,2022,"3B, OF",topps,SMLB-85,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Alec Burleson,St. Louis Cardinals,2023,2022,OF,topps,US99,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 9/8/2022,NA,NA
+Jordan Walker,St. Louis Cardinals,2023,2022,OF,topps,US122,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 3/30/2023,NA,NA
+Juan Yepez,St. Louis Cardinals,2023,2022,"OF, DH",topps,US207,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nolan Gorman,St. Louis Cardinals,2023,2022,2B,topps,US212,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 5/20/2022,NA,NA
+Jordan Walker,St. Louis Cardinals,2023,2022,OF,topps,SMLBC-80,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Alec Burleson,St. Louis Cardinals,2023,2022,OF,topps,US99,0,1,0,0,1,1,0,0,0,0,0,silver,0,0,0,0,0,0,0,0,NA,Rookie Debut: 9/8/2022,NA,NA
+Adam Wainwright,St. Louis Cardinals,2023,2022,P,topps,74,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA

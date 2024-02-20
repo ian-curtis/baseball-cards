@@ -47,7 +47,6 @@ Gary Sheffield,Detroit Tigers,2008,2007,DH,topps,DET12,0,0,0,0,1,0,0,0,0,0,0,0,0
 Miguel Cabrera,Detroit Tigers,2008,2007,3B,topps,DET1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Justin Verlander,Detroit Tigers,2008,2007,P,topps,DET3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Justin Verlander,Detroit Tigers,2010,2009,P,topps,DET12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Team Checklists,Detroit Tigers,2010,2009,team,upper deck,580,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Curtis Granderson and Justin Verlander,NA,NA
 Justin Verlander,Detroit Tigers,2010,2009,P,topps,none,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Justin Verlander,Detroit Tigers,2007,2008,P,upper deck,694,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Team Checklist,NA,NA
 Justin Verlander,Detroit Tigers,2006,2005,P,fleer,173,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,just_2006_fle_173_f.png,just_2006_fle_173_r.png
@@ -202,10 +201,9 @@ Dave Rozema,Detroit Tigers,1982,1981,P,donruss,259,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Robbie Grossman,Detroit Tigers,2021,2020,OF,topps,509,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Buck Farmer,Detroit Tigers,2021,2020,P,topps,158,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Travis Fryman,Detroit Tigers,1993,1992,"3B, SS",topps,392,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Topps Gold,NA,NA
-Matthew Boyd,Detroit Tigers,2020,2019,P,topps,165,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Christin Stewart,Detroit Tigers,2020,2019,OF,topps,23,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Matthew Boyd,Detroit Tigers,2020,2019,P,topps,165,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Christin Stewart,Detroit Tigers,2020,2019,OF,topps,23,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Mike Aviles,Detroit Tigers,2017,2016,OF,topps,240,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Close Call,Detroit Tigers,2020,2019,split,topps,31,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Goodrum Hangs On After Swipping Second (Checklist),NA,NA
 Jose Iglesias,Detroit Tigers,2017,2016,SS,topps,441,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Victor Martinez,Detroit Tigers,2017,2016,DH,topps,611,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jordan Zimmermann,Detroit Tigers,2017,2016,P,topps,40,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -221,9 +219,9 @@ Mikie Mahtook,Detroit Tigers,2019,2018,OF,topps,477,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 Tyson Ross,Detroit Tigers,2019,2018,P,topps,US281,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Josh Harrison,Detroit Tigers,2019,2018,2B,topps,US33,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Nicholas Castellanos,Detroit Tigers,2019,2018,OF,topps,209,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Spencer Turnbull,Detroit Tigers,2019,2018,P,topps,US276,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,spen_2019_top_us276_f.png,spen_2019_top_us276_r.png
-Gregory Soto,Detroit Tigers,2019,2018,P,topps,US94,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Nick Ramirez,Detroit Tigers,2019,2018,P,topps,US67,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Spencer Turnbull,Detroit Tigers,2019,2018,P,topps,US276,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,spen_2019_top_us276_f.png,spen_2019_top_us276_r.png
+Gregory Soto,Detroit Tigers,2019,2018,P,topps,US94,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Nick Ramirez,Detroit Tigers,2019,2018,P,topps,US67,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Willie Hernandez,Detroit Tigers,1984,1984,P,donruss,235,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
 Lance Parrish,Detroit Tigers,1984,1984,C,donruss,41,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Leaf variant,NA,NA
 Dave Bergman,Detroit Tigers,1984,1984,1B,donruss,537,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
@@ -294,29 +292,42 @@ Jack Morris,Detroit Tigers,1987,1986,P,topps,778,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Javier Baez,Detroit Tigers,2022,2021,SS,topps,87TB-46,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1987,1,NA,javi_2022_top_87tb46_f.png,javi_2022_top_87tb46_r.png
 Joey Wentz,Detroit Tigers,2022,2021,P,topps,US295,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jack Morris,Detroit Tigers,2022,2021,P,topps,319,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,NA,jack_2022_top_319_f.png,jack_2022_top_319_r.png
-Riley Greene,Detroit Tigers,2023,2022,OF,topps,SMLB-26,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Riley Greene,Detroit Tigers,2023,2022,OF,topps,SMLB-26,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
 Spencer Torkelson,Detroit Tigers,2022,2022,1B,topps,USC100,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,NA,spen_2022_top_usc100_f.png,spen_2022_top_usc100_r.png
 Spencer Torkelson,Detroit Tigers,2022,2022,1B,topps,USC157,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,Rookie Debut: 4/8/2022,NA,NA
 Beau Brieske,Detroit Tigers,2022,2022,P,topps,USC147,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Harold Castro,Detroit Tigers,2023,2022,"1B, 3B",topps,126,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Harold Castro,Detroit Tigers,2023,2022,"1B, 3B",topps,126,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Gregory Soto,Detroit Tigers,2023,2022,P,topps,86,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Riley Greene,Detroit Tigers,2023,2022,OF,topps,31,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,rile_2023_top_31_f.png,rile_2023_top_31_r.png
+Riley Greene,Detroit Tigers,2023,2022,OF,topps,31,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,rile_2023_top_31_f.png,rile_2023_top_31_r.png
 Tarik Skubal,Detroit Tigers,2023,2022,P,topps,74,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Beau Brieske,Detroit Tigers,2023,2022,P,topps,184,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Kody Clemens,Detroit Tigers,2023,2022,2B,topps,176,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Kody Clemens,Detroit Tigers,2023,2022,2B,topps,176,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Miguel Cabrera,Detroit Tigers,2023,2022,"1B, DH",topps,24,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Eric Haase,Detroit Tigers,2023,2022,C,topps,591,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Casey Mize,Detroit Tigers,2023,2022,P,topps,586,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Casey Mize,Detroit Tigers,2023,2022,P,topps,586,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Team Card,Detroit Tigers,2023,2022,team,topps,555,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Miguel Cabrera,Detroit Tigers,2023,2022,"1B, DH",topps,88AS-14,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,American League All Star,migu_2023_top_88as14_f.png,migu_2023_top_88as14_r.png
-Kerry Carpenter,Detroit Tigers,2023,2022,"OF, DH",topps,394,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Akil Baddoo,Detroit Tigers,2023,2022,OF,topps,556,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Kerry Carpenter,Detroit Tigers,2023,2022,"OF, DH",topps,394,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Akil Baddoo,Detroit Tigers,2023,2022,OF,topps,556,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Brendon Davis,Detroit Tigers,2023,2022,3B,topps,494,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Donny Sands,Detroit Tigers,2023,2022,C,topps,416,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Jonathan Schoop,Detroit Tigers,2023,2022,2B,topps,603,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Michael Lorenzen,Detroit Tigers,2023,2022,P,topps,564,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Ryan Kreidler,Detroit Tigers,2023,2022,3B,topps,356,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Michael Lorenzen,Detroit Tigers,2023,2022,P,topps,564,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Ryan Kreidler,Detroit Tigers,2023,2022,3B,topps,356,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Spencer Torkelson,Detroit Tigers,2023,2022,1B,topps,365,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Miguel Cabrera,Detroit Tigers,2023,2022,1B,topps,SMLB-44,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
 Javier Baez,Detroit Tigers,2023,2022,SS,topps,641,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Miguel Cabrera,Detroit Tigers,2022,2021,"1B, DH",topps,52,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,Topps Finest,NA,NA
+Rony Garcia,Detroit Tigers,2023,2022,P,topps,231,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Eduardo Rodriguez,Detroit Tigers,2023,2022,P,topps,59,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Austin Meadows,Detroit Tigers,2023,2022,OF,topps,252,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Javier Baez,Detroit Tigers,2023,2022,SS,topps,T88-71,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,NA,NA,NA,NA
+Jake Rogers,Detroit Tigers,2023,2022,C,topps,US4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Garrett Hill,Detroit Tigers,2023,2022,P,topps,US29,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Spencer Turnbull,Detroit Tigers,2023,2022,P,topps,US291,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Tyler Nevin,Detroit Tigers,2023,2022,"3B, OF",topps,US89,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Javier Baez,Detroit Tigers,2023,2022,SS,topps,SMLB-5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Stars of MLB,NA,NA
+Spencer Torkelson,Detroit Tigers,2023,2022,1B,topps,T88-98,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1988,1,NA,NA,NA
+Braden Bristo,Detroit Tigers,2023,2022,P,topps,US282,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Tarik Skubal,Detroit Tigers,2023,2022,P,topps,114,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA
+Cecil Fielder,Detroit Tigers,2023,2022,1B,topps,158,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA
